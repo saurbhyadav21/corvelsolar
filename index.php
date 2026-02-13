@@ -184,7 +184,7 @@
             </div>
         </div>
         <!-- desktop-menu -->
-        <div class="el-mobile_menu relative-position">
+        <div class="d el-mobile_menu relative-position">
             <div class="el-mobile_menu_button s2-open_mobile_menu">
                 <i class="fas fa-bars"></i>
             </div>
