@@ -1,0 +1,64 @@
+.section-box {
+
+    width: 100%;
+
+    height: auto;
+
+    padding: 100px 0px;
+
+    position: relative;
+
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+
+    padding-top: 40px;
+padding-bottom:0px;
+
+}
+.section-box .main h1{
+    text-align: center;
+    color: #000;
+}
+.third-section-box {
+
+    width: 100%;
+
+    height: auto;
+
+    padding: 100px 0px;
+
+    position: relative;
+
+    background-color: #F7FBFF;
+
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+
+    padding-top: 70px;
+
+    padding-bottom: 45px;
+
+}
+.last-section-padding{
+    padding-bottom:150px;
+}
+
+.section-box h2 {
+
+    text-align: center;
+
+    text-transform: uppercase;
+    color: #222;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 600;
+    margin: 0 0 1.5rem;
+
+}
+
+.section-box h3{
+     font-size: 1.4rem;   
+    
+}
+.section-box p{
+  color: #444;  
+}
+
