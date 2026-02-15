@@ -670,6 +670,10 @@
     margin-bottom: 0px !important;
     font-size: 62px;
     color: orange;}
+    .ff{    text-align: center;
+    margin-bottom: 0px !important;
+    font-size: 130px;
+    color: orange;}
             </style>
             <!-- /title -->
 
@@ -870,24 +874,26 @@
 
 	============================================= -->
     <!--use solar section start-->
-    <section class="d use-solar-section position-relative">
+    <section class="use-solar-section position-relative">
 
         <div class="container">
             <span class="title-tag" id="sub-text-first" style="text-align:center; display:block">
 
-                Where to use Solar
+                
 
             </span>
             <!--<h5></h5>-->
-            <h2>EVERYWHERE…, YES EVERYWHERE. <br>You Heard That Right. </h2>
-            <span class="title-tag">Renewable energy like solar is presentable everywhere and hence opens a wide bracket for its utility and consumption. With Corvelsolar Energy, check out the catalogue from <strong>solar panels for home cost</strong> to large-scale expenditures.</span>
+            <h2>Where to Use Solar?</h2>
+            <h4 style="text-align: center;">Anywhere… Yes, Absolutely Anywhere.</h4><br>
+            <span class="title-tag">You heard that right. Renewable energy like solar can be implemented almost everywhere, making it one of the most versatile and practical power solutions available today.</span><br>
+            <span class="title-tag">With <strong>Corvelsolar Energy</strong>, explore a complete range of options — from affordable residential solar panel solutions to large-scale commercial and industrial installations.</span>
 
             <div class="use-solar-row">
 
                 <div class="use-solar-col">
                     <div class="use-solar-image-box-wrapper">
-                        <figure class="use-solar-image-box-img">
-                            <img width="150" height="150" src="img/home/residential-150x150.png" class="" alt="residential" loading="lazy">
+                        <figure class="ff use-solar-image-box-img">
+                            <i class=" fa-solid fa-house"></i>
                         </figure>
                         <div class="use-solar-image-box-content">
                             <h2 class="use-solar-image-box-title">Residential</h2>
@@ -934,8 +940,8 @@
                 <!--col-1-end-->
                 <div class="use-solar-col">
                     <div class="use-solar-image-box-wrapper">
-                        <figure class="use-solar-image-box-img">
-                            <img width="150" height="150" src="img/home/building-150x150.png" class="" alt="residential" loading="lazy">
+                        <figure class="ff use-solar-image-box-img">
+                            <i class=" fa-solid fa-building"></i>
                         </figure>
                         <div class="use-solar-image-box-content">
                             <h2 class="use-solar-image-box-title">Institutional</h2>
@@ -972,8 +978,8 @@
 
                 <div class="use-solar-col">
                     <div class="use-solar-image-box-wrapper">
-                        <figure class="use-solar-image-box-img">
-                            <img width="150" height="150" src="img/home/industry-150x150.png" class="" alt="residential" loading="lazy">
+                        <figure class="ff use-solar-image-box-img">
+                            <i class="fa-solid fa-industry"></i>
                         </figure>
                         <div class="use-solar-image-box-content">
                             <h2 class="use-solar-image-box-title">Commercial & Industrial</h2>
@@ -1038,7 +1044,7 @@
 
 	============================================= -->
 
-    <section id="features" class="d features-section position-relative fourth-section-home">
+    <section id="features" class="features-section position-relative fourth-section-home">
 
         <div class="background_overlay"></div>
 
