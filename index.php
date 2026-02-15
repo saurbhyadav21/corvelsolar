@@ -9,11 +9,11 @@
     <meta name="description" content="Corvelsolar Energy, a leading solar power installation company in Delhi NCR, offers rooftop solar setups at affordable prices. become energy independent.">
     <link rel="canonical" href="https://www.corvelsolar.com">
     <link rel="shortcut icon" href="icon/favicon.png" type="image/x-icon">
-   
+
 
 
     <!-- Google tag (gtag.js) -->
-   
+
 
 
 
@@ -108,7 +108,7 @@
                 <div class="brand-logo float-left">
                     <a href="https://www.corvelsolar.com">
                         <img src="img/logo.png" alt="Corvelsolar Energy">
-                         <!-- Corvelsolar -->
+                        <!-- Corvelsolar -->
                     </a>
                 </div>
                 <nav class="main_navigation desktop-menu ul-li" style="display: none;">
@@ -414,20 +414,30 @@
 
                 <div class="banner-caption">
                     <div class="slider-content-box">
-                        <span class="title-tag text-uppercase"><i aria-hidden="true" class="fas fa-solar-panel" style="color: #0FC5D3;"></i><span class="title-text">producing what matters!</span></span>
-                        <h5>Endowing An Affordable <strong>Solar Panel Price</strong>: <br>
-                            Committed to deliver exceptional service to all. Solar is for everyone.
+                        <span class="title-tag text-uppercase">
+                            <i aria-hidden="true" class="fas fa-solar-panel" style="color: #0FC5D3;"></i>
+                            <span class="title-text" style="padding-left: 0px;font-size: 34px;">Energy for What You Love</span>
+                        </span>
+
+                        <h5>
+                            Delivering Affordable <strong>Solar Panel Solutions</strong>: <br><br>
+                            Dedicated to providing outstanding service for every home and business. <br>Solar energy is accessible to all.
                         </h5>
-                        <h1><span class="main-heading">SOLAR IS FOR </span><span id="moving-text"></span>
+
+                        <h1>
+                            <span class="main-heading">SOLAR POWER IS FOR </span><br>
+                            <span id="moving-text"></span>
                         </h1>
-                        <p>Your Reliable Source For Solar
-                        </p>
+
+                        <p>Your Trusted Partner in Solar Energy</p>
+
                         <div class="slide-btn-1">
-                            <a href="https://www.corvelsolar.com/contact">Start Saving On Electricity Bills <i class="flaticon-next"></i></a>
-
+                            <a href="https://www.corvelsolar.com/contact">
+                                Start Saving on Your Electricity Bills <i class="flaticon-next"></i>
+                            </a>
                         </div>
-
                     </div>
+
                 </div>
                 <div class="home-banner-form banner-form">
                     <div class="form-wrapper">
@@ -524,7 +534,7 @@
             <div class="site-info-content">
 
                 <div class="site-info-icon-text position-relative">
-<i class="fa-solid fa-house"></i>
+                    <i class="fa-solid fa-house"></i>
                     <div class="site-info-icon float-left">
 
                         <svg data-name="Layer 1" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 261.89 202.21">
@@ -542,7 +552,7 @@
 
                     <div class="site-info-text headline">
 
-                        <p>Best In Quality And Reliable</p>
+                        <p>Superior Quality You Can Trust</p>
 
                     </div>
 
@@ -572,9 +582,7 @@
 
                     <div class="site-info-text headline">
 
-                        <p>Best Alternate
-
-                            Energy Solutions</p>
+                        <p>Reliable Renewable Energy Solutions</p>
 
                     </div>
 
@@ -599,9 +607,7 @@
 
                     <div class="site-info-text headline">
 
-                        <p>Global Expertise &
-
-                            Quality Power</p>
+                        <p>Worldwide Experience & Premium Power</p>
 
                     </div>
 
@@ -624,14 +630,18 @@
 	============================================= -->
 
 
- <style>.d { display: none;}</style>
+    <style>
+        .d {
+            display: none;
+        }
+    </style>
 
 
     <!-- Start of about section
 
 	============================================= -->
 
-    <section id="features" class="d features-section position-relative second-section">
+    <section id="features" class="features-section position-relative second-section">
 
 
 
@@ -641,12 +651,18 @@
 
                 <span class="title-tag" id="sub-text-first">
 
-                    WHY SOLAR
+
 
                 </span>
 
-                <h2>One Time Investment & Lifetime Savings</h2>
-                <span class="title-tag">Corvelsolar Energy makes getting solar simple by offering clear information and a seamless experience from beginning to end. Our amazing household solar systems have resulted in power bill savings of up to 90%. Make use of solar incentives and financing options to make it more cheap. Discover the reasonable <strong>commercial solar panel cost</strong> at an affordable option.</span>
+                <h2>One Time Investment & Lifetime Savings</h2><br>
+                <span class="title-tag">Corvelsolar Energy makes the switch to solar easy by providing clear guidance and a smooth, end-to-end installation experience. Our high-performance residential solar systems help homeowners cut their electricity bills by up to 90%.</span>
+                <br /><br />
+                <span class="title-tag">Take advantage of available solar incentives and flexible financing options to make your investment even more affordable. Explore our competitively priced commercial solar solutions designed to deliver maximum value for your business.</span>
+
+
+
+
 
             </div>
 
@@ -664,7 +680,7 @@
 
                             <div class="features-text headline pera-content">
 
-                                <h3>Make Money <br>From SUN</h3>
+                                <h3>Turn Sunshine <br>Into Income</h3>
 
 
 
@@ -687,7 +703,7 @@
                             <div class="features-text headline pera-content">
 
 
-                                <h3>Reduce <br>Electricity Bills</h3>
+                                <h3>Slash Your <br>Electricity Bills</h3>
 
 
                             </div>
@@ -707,7 +723,7 @@
                             <div class="features-text headline pera-content">
 
 
-                                <h3>Everyone <br>Can Use</h3>
+                                <h3>Solar for <br>Everyone</h3>
 
 
 
@@ -727,7 +743,7 @@
                             <div class="features-text headline pera-content">
 
 
-                                <h3>Negligible <br>Maintenance</h3>
+                                <h3>Minimal <br>Maintenance</h3>
 
 
 
@@ -747,7 +763,7 @@
                             <div class="features-text headline pera-content">
 
 
-                                <h3>Safest Investment <br>Option And High <br> Returns</h3>
+                                <h3>Secure Investment <br>Strong Returns</h3>
 
 
 
@@ -767,7 +783,7 @@
                             <div class="features-text headline pera-content">
 
 
-                                <h3>Monitor Your System <br>From Anywhere</h3>
+                                <h3>Track Your Solar <br>Anywhere, Anytime</h3>
 
 
 
@@ -787,7 +803,7 @@
                             <div class="features-text headline pera-content">
 
 
-                                <h3>Environment <br>Friendly</h3>
+                                <h3>Environmentally <br>Friendly</h3>
 
 
 
@@ -806,7 +822,7 @@
 
                             <div class="features-text headline pera-content">
 
-                                <h3>Quick <br>Payback</h3>
+                                <h3>Fast Return <br>on Investment</h3>
 
 
 
