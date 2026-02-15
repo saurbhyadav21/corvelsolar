@@ -665,7 +665,12 @@
 
 
             </div>
-
+            <style>
+                .f{    text-align: center;
+    margin-bottom: 0px !important;
+    font-size: 62px;
+    color: orange;}
+            </style>
             <!-- /title -->
 
             <div class="features-content">
@@ -675,8 +680,13 @@
                     <div class="col-lg-3 col-md-3 col-6">
 
                         <div class="icon-box">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-                            <figure class="image-box-img mb-4"><img width="256" height="256" src="img/home/salary12.webp" class="attachment-full size-full" alt="salary12" loading="lazy"></figure>
+                            <figure class="image-box-img mb-4 f">
+                               
+                                <i class="fa-solid fa-money-bill"></i>
+                            </figure>
+
 
                             <div class="features-text headline pera-content">
 
@@ -698,7 +708,9 @@
 
                         <div class="icon-box">
 
-                            <figure class="image-box-img mb-4"><img width="256" height="256" src="img/home/low-price1.png" class="attachment-full size-full" alt="salary12" loading="lazy"></figure>
+                            <figure class="image-box-img mb-4 f">
+                                <i class="fa-solid fa-dollar-sign"></i>
+                            </figure>
 
                             <div class="features-text headline pera-content">
 
@@ -718,7 +730,9 @@
                         <div class="icon-box">
 
 
-                            <figure class="image-box-img mb-4"><img width="256" height="256" src="img/home/family-insurance.png" class="attachment-full size-full" alt="salary12" loading="lazy"></figure>
+                            <figure class="image-box-img mb-4 f">
+                                <i class="fa-solid fa-people-roof"></i>
+                            </figure>
 
                             <div class="features-text headline pera-content">
 
@@ -738,7 +752,9 @@
 
                         <div class="icon-box">
 
-                            <figure class="image-box-img mb-4"><img width="256" height="256" src="img/home/technical-support.png" class="attachment-full size-full" alt="salary12" loading="lazy"></figure>
+                            <figure class="image-box-img mb-4 f">
+                                <i class="fa-solid fa-headset"></i>
+                            </figure>
 
                             <div class="features-text headline pera-content">
 
@@ -758,7 +774,9 @@
 
                         <div class="icon-box">
 
-                            <figure class="image-box-img mb-4"><img width="256" height="256" src="img/home/insurance1.png" class="attachment-full size-full" alt="salary12" loading="lazy"></figure>
+                            <figure class="image-box-img mb-4 f">
+                                <i class="fa-solid fa-shield-halved"></i>
+                            </figure>
 
                             <div class="features-text headline pera-content">
 
@@ -778,7 +796,9 @@
 
                         <div class="icon-box">
 
-                            <figure class="image-box-img mb-4"><img width="256" height="256" src="img/home/cctv-1.png" class="attachment-full size-full" alt="salary12" loading="lazy"></figure>
+                            <figure class="image-box-img mb-4 f">
+                                <i class="fa-solid fa-video"></i>
+                            </figure>
 
                             <div class="features-text headline pera-content">
 
@@ -798,7 +818,9 @@
 
                         <div class="icon-box">
 
-                            <figure class="image-box-img mb-4"><img width="256" height="256" src="img/home/growth-1.png" class="attachment-full size-full" alt="salary12" loading="lazy"></figure>
+                            <figure class="image-box-img mb-4 f">
+                                <i class="fa-solid fa-chart-line"></i>
+                            </figure>
 
                             <div class="features-text headline pera-content">
 
@@ -818,7 +840,9 @@
 
                         <div class="icon-box">
 
-                            <figure class="image-box-img mb-4"><img width="256" height="256" src="img/home/refund.png" class="attachment-full size-full" alt="salary12" loading="lazy"></figure>
+                            <figure class="image-box-img mb-4 f">
+                                <i class="fa-solid fa-rotate-left"></i>
+                            </figure>
 
                             <div class="features-text headline pera-content">
 
