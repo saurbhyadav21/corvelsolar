@@ -1152,9 +1152,9 @@
 
                                     <h3>Lifetime Customer Support</h3>
 
-<p>
-We offer dedicated lifetime customer support along with expert guidance to help you maintain your solar system efficiently. Our goal is to ensure maximum performance and uninterrupted energy generation for years to come.
-</p>
+                                    <p>
+                                        We offer dedicated lifetime customer support along with expert guidance to help you maintain your solar system efficiently. Our goal is to ensure maximum performance and uninterrupted energy generation for years to come.
+                                    </p>
 
 
                                     <!--<div class="fh-more">-->
@@ -1199,11 +1199,11 @@ We offer dedicated lifetime customer support along with expert guidance to help 
 
                                 <div class="features-hover-text headline pera-content">
 
-                                   <h3>Engineered & Designed by Industry Experts</h3>
+                                    <h3>Engineered & Designed by Industry Experts</h3>
 
-<p>
-Our team consists of experienced industry professionals who have successfully designed and executed distributed rooftop solar plants with a cumulative capacity of over 10 MW+. Their expertise ensures precision, efficiency, and high-performance solar solutions for every project.
-</p>
+                                    <p>
+                                        Our team consists of experienced industry professionals who have successfully designed and executed distributed rooftop solar plants with a cumulative capacity of over 10 MW+. Their expertise ensures precision, efficiency, and high-performance solar solutions for every project.
+                                    </p>
 
 
                                     <!--<div class="fh-more">-->
@@ -1247,11 +1247,11 @@ Our team consists of experienced industry professionals who have successfully de
 
                                 <div class="features-hover-text headline pera-content">
 
-                                   <h3>Premium Solar Systems</h3>
+                                    <h3>Premium Solar Systems</h3>
 
-<p>
-We deliver Tier-1 solar panels engineered for superior performance, paired with precision installation and world-class service standards. Our solutions combine cutting-edge technology, long-term reliability, and exceptional value — ensuring a seamless and rewarding solar experience at competitive pricing.
-</p>
+                                    <p>
+                                        We deliver Tier-1 solar panels engineered for superior performance, paired with precision installation and world-class service standards. Our solutions combine cutting-edge technology, long-term reliability, and exceptional value — ensuring a seamless and rewarding solar experience at competitive pricing.
+                                    </p>
 
 
                                     <!--<div class="fh-more">-->
@@ -1297,9 +1297,9 @@ We deliver Tier-1 solar panels engineered for superior performance, paired with 
 
                                     <h3>Collateral-Free Financing</h3>
 
-<p>
-Switch to solar with ease by paying just 30% upfront. We offer collateral-free loan options with competitive interest rates starting from 11%, making clean energy more accessible and affordable than ever.
-</p>
+                                    <p>
+                                        Switch to solar with ease by paying just 30% upfront. We offer collateral-free loan options with competitive interest rates starting from 11%, making clean energy more accessible and affordable than ever.
+                                    </p>
 
 
                                     <!--<div class="fh-more">-->
@@ -1345,9 +1345,9 @@ Switch to solar with ease by paying just 30% upfront. We offer collateral-free l
 
                                     <h3>IoT-Powered Diagnostics</h3>
 
-<p>
-Our advanced IoT-enabled monitoring system allows customers to track their solar plant’s performance remotely through a mobile application. Monitor daily, monthly, and annual energy generation, view total savings in ₹, and access detailed performance insights — all in real time, from anywhere.
-</p>
+                                    <p>
+                                        Our advanced IoT-enabled monitoring system allows customers to track their solar plant’s performance remotely through a mobile application. Monitor daily, monthly, and annual energy generation, view total savings in ₹, and access detailed performance insights — all in real time, from anywhere.
+                                    </p>
 
 
                                     <!--<div class="fh-more">-->
@@ -1366,9 +1366,9 @@ Our advanced IoT-enabled monitoring system allows customers to track their solar
 
                 </div>
                 <div class="elementorsss-widget-container">
-                   <h4 class="elementor-heading-title elementor-size-default">
-Hassle-Free Purchase | Top-Tier Solar Systems | Easy Financing | Lifetime Assistance | Intelligent Solar Solutions
-</h4>
+                    <h4 class="elementor-heading-title elementor-size-default">
+                        Hassle-Free Purchase | Top-Tier Solar Systems | Easy Financing | Lifetime Assistance | Intelligent Solar Solutions
+                    </h4>
 
                 </div>
             </div>
@@ -1404,15 +1404,15 @@ Hassle-Free Purchase | Top-Tier Solar Systems | Easy Financing | Lifetime Assist
                                 <span class="title-tag">
                                     <i class="fa-solid fa-solar-panel"></i>
 
-                                   Key Solar Insights</span>
+                                    Key Solar Insights</span>
 
                                 <h2>Reliable Solar Power in Every Season</h2>
 
                             </div>
 
                             <div class="expertise-text-details">
-    Install solar and enjoy reliable energy benefits in every season — day and night.
-</div>
+                                Install solar and enjoy reliable energy benefits in every season — day and night.
+                            </div>
 
                             <div class="expertise-skill-progress">
 
@@ -1583,11 +1583,11 @@ Hassle-Free Purchase | Top-Tier Solar Systems | Easy Financing | Lifetime Assist
 
     <section id="features" class="features-section position-relative six-section-box focus-wraps">
 
-       <h2><span style="text-transform: capitalize;">Corvelsolar</span> Buying Process</h2>
+        <h2><span style="text-transform: capitalize;">Corvelsolar</span> Buying Process</h2>
 
-<h3>
-Introducing our exclusive EDDIM model — designed to make your transition to solar simple and seamless. With competitive 5kW solar panel pricing, we ensure affordability, reliability, and complete peace of mind. Move beyond rising electricity costs and embrace a smarter, sustainable, and cost-effective energy future.
-</h3>
+        <h3>
+            Introducing our exclusive EDDIM model — designed to make your transition to solar simple and seamless. With competitive 5kW solar panel pricing, we ensure affordability, reliability, and complete peace of mind. Move beyond rising electricity costs and embrace a smarter, sustainable, and cost-effective energy future.
+        </h3>
 
 
 
@@ -1605,40 +1605,19 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
 
                         <div class="features-icon-text text-center position-relative">
 
-                            <div class="features-icon">
+                            <div class="f features-icon">
 
-                                <img width="256" height="256" src="img/home/evaluation.png" class="attachment-full size-full" alt="winner" loading="lazy" sizes="(max-width: 256px) 100vw, 256px">
-
-                            </div>
-
-                            <div class="features-text headline pera-content">
-
-                                <h3>Evaluate</h3>
-
-                                <p>Our solar experts analyze the need of the customer, study the electricity consumption pattern on both monthly & yearly basis, do all the required measurements of the roof to calculate the total shadow free area of the premises to suggest the most optimal system size.</p>
-
-                            </div>
-
-
-
-                        </div>
-
-                    </div>
-
-                    <div class="col-lg-4 col-md-6">
-
-                        <div class="features-icon-text text-center position-relative">
-
-                            <div class="features-icon">
-
-                                <img width="256" height="256" src="img/home/design-tools.png" class="attachment-full size-full" alt="winner" loading="lazy" sizes="(max-width: 256px) 100vw, 256px">
+                                <i class="fa-solid fa-magnifying-glass"></i>
 
                             </div>
 
                             <div class="features-text headline pera-content">
 
-                                <h3>Design</h3>
-                                <p>Analyzing the whole shadow-free area available for the installation of solar panels and calculating all the inclination needed at the site is presented to the customer through multiple 3D designs & models with a feasibility report showing ROI, plant generation etc.</p>
+                                <h3 class="mb-0">Evaluate</h3>
+
+                                <p>
+                                    Our solar experts carefully assess each customer’s energy requirements by analyzing monthly and annual electricity consumption patterns. We conduct detailed site inspections and precise rooftop measurements to determine the total shadow-free area.
+                                </p>
 
 
                             </div>
@@ -1653,17 +1632,48 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
 
                         <div class="features-icon-text text-center position-relative">
 
-                            <div class="features-icon">
+                            <div class="f features-icon">
 
-                                <img width="256" height="256" src="img/home/dispatch.png" class="attachment-full size-full" alt="winner" loading="lazy" sizes="(max-width: 256px) 100vw, 256px">
+                                <i class="fa-solid fa-drafting-compass"></i>
 
                             </div>
 
                             <div class="features-text headline pera-content">
 
-                                <h3>Dispatch</h3>
+                                <h3 class="mb-0">Design</h3>
 
-                                <p>After confirming on the design from the customer the solar panels and balance of system are dispatched from our warehouse to the customer's location as soon as possible.</p>
+                                <p>
+                                    After evaluating the available shadow-free area, our team designs a customized solar layout with precise tilt and orientation calculations for maximum efficiency, return on investment (ROI), and overall system performance.
+                                </p>
+
+
+
+                            </div>
+
+
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-4 col-md-6">
+
+                        <div class="features-icon-text text-center position-relative">
+
+                            <div class="f features-icon">
+
+                                <i class="fa-solid fa-truck"></i>
+
+                            </div>
+
+                            <div class="features-text headline pera-content">
+
+                                <h3 class="mb-0">Dispatch</h3>
+
+                                <p>
+                                    Once the design is approved, the solar panels and complete balance-of-system components are promptly dispatched from our warehouse to the customer’s location. We ensure timely delivery and careful handling to maintain quality and project efficiency.
+                                </p>
+
 
 
 
@@ -1678,18 +1688,21 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
 
                         <div class="features-icon-text text-center position-relative">
 
-                            <div class="features-icon">
+                            <div class="f features-icon">
 
-                                <img width="256" height="256" src="img/home/server.png" class="attachment-full size-full" alt="winner" loading="lazy" sizes="(max-width: 256px) 100vw, 256px">
+                                <i class="fa-solid fa-screwdriver-wrench"></i>
 
                             </div>
 
                             <div class="features-text headline pera-content">
 
 
-                                <h3>Install</h3>
+                                <h3 class="mb-0">Install</h3>
 
-                                <p>Our highly experienced engineers reach the site once the solar panels and balance of system are delivered to the location for quality work installation which delivers maximum output per kW.</p>
+                                <p>
+                                    Once the materials are delivered, our experienced engineers arrive on-site to carry out a precise and quality-driven installation. Every component is installed with accuracy and adherence to safety standards to ensure maximum energy output per kW and long-term system reliability.
+                                </p>
+
 
 
 
@@ -1704,16 +1717,19 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
 
                         <div class="features-icon-text text-center position-relative">
 
-                            <div class="features-icon">
+                            <div class="f features-icon">
 
-                                <img width="256" height="256" src="img/home/monitoring-1.png" class="attachment-full size-full" alt="winner" loading="lazy" sizes="(max-width: 256px) 100vw, 256px">
+                                <i class="fa-solid fa-chart-line"></i>
 
                             </div>
 
                             <div class="features-text headline pera-content">
-                                <h3>Monitor</h3>
+                                <h3 class="mb-0">Monitor</h3>
 
-                                <p>Just buying a solar system is not enough. Monitoring your daily savings, power generation and money saved till now is equally necessary so, through the mobile application you will be able to monitor your solar system from any part of the world.</p>
+                                <p>
+                                    Installing a solar system is just the beginning. Tracking your daily energy generation, savings, and overall financial benefits is equally important. Through our dedicated mobile application, you can monitor your system’s performance in real time — anytime, from anywhere in the world.
+                                </p>
+
 
                             </div>
 
@@ -1734,7 +1750,12 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
 
                             <div class="features-text headline pera-content">
 
-                                <figure class="elementor-image-box-img"><a href="https://www.corvelsolar.com/contact"><img width="512" height="512" src="icon/sun-1-1.png" class="" alt="sun (1)" loading="lazy"></a></figure>
+                                <figure class="elementor-image-box-img">
+                                    <a href="https://www.corvelsolar.com/contact">
+                                        <i class="f fa-solid fa-sun"></i>
+
+                                    </a>
+                                </figure>
 
                                 <h3 style="color:#fff;">Go Solar<br>
                                     The Corvelsolar Way!</h3>
@@ -1754,7 +1775,7 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
         </div>
 
     </section>
-    <section class="d faq-section">
+    <section class="faq-section">
         <div class="container">
             <h2 class="Prev">FAQ's</h2>
             <div class="row">
@@ -1765,18 +1786,12 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
                         <input type="checkbox" id="question1" name="q" class="questions">
                         <div class="plus">+</div>
                         <label for="question1" class="question">
-                            Which is the best solar energy company in Gurgaon?
+                            Which is a trusted solar energy company in Gurgaon?
                         </label>
                         <div class="answers">
-                            <h2>Leading Solar Energy Company in Gurgaon - Corvelsolar Energy</h2>
-                            <p>Corvelsolar Energy is certainly among the best solar energy companies in Gurgaon and the major
-                                reason behind that is the fact that the company offers the most diversified and customized solar
-                                energy solutions. They are well-known for offering a range of services targeted at harnessing
-                                and utilizing the energy acquired from the sun, reducing the use of electricity wherever possible,
-                                and lessening your overall electricity bills. </p>
-                            <p><a href="https://www.corvelsolar.com/solar-companies-in-gurgaon">The best solar company in Gurgaon</a> should undoubtedly be your first choice if you are planning
-                                to go solar as their solar products are top quality and reliable. In addition to this, they are
-                                backed by global expertise and quality power.</p>
+                            <h2>Reliable Solar Energy Provider in Gurgaon - Corvelsolar Energy</h2>
+                            <p>Corvelsolar Energy is regarded as one of the most dependable solar solution providers in Gurgaon, offering customized and end-to-end renewable energy systems. The company focuses on reducing grid dependency and helping customers significantly lower their electricity expenses through advanced solar technology.</p>
+                            <p>If you are planning to switch to solar, choosing a company known for quality products, professional installation, and long-term reliability is essential. Corvelsolar Energy delivers performance-driven systems backed by industry expertise.</p>
                         </div>
                     </div>
 
@@ -1784,14 +1799,12 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
                         <input type="checkbox" id="question2" name="q" class="questions">
                         <div class="plus">+</div>
                         <label for="question2" class="question">
-                            How can I get solar panels installed?
+                            What is the process for installing solar panels?
                         </label>
                         <div class="answers">
-                            <h2>Best Solar Panel Installation Company - Corvelsolar Energy </h2>
-                            <p>
-
-                            <p>You basically just need to get in touch with one of the companies from the list of solar companies in Gurgaon. Though it is said that the ideal direction to place your solar panel is to face north, you can ask experts from Corvelsolar Energy for the best customized solar solutions for your home. If you are planning to go solar then you are certainly making the right decision as it will help in lowering your electricity bills, lowering your carbon footprint, and can generate income. The experts at Corvelsolar Energy will take care of the mount installation and wiring of your solar panel and establish connections with your solar inverter.</p>
-
+                            <h2>Complete Solar Panel Installation Support</h2>
+                            <p>Getting solar panels installed begins with a professional site survey and energy assessment. Experts analyze roof orientation, available space, and electricity consumption before recommending the ideal system size.</p>
+                            <p>From mounting structures and wiring to inverter connections and final commissioning, the entire setup is executed with precision to ensure safety and maximum efficiency.</p>
                         </div>
                     </div>
 
@@ -1799,14 +1812,12 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
                         <input type="checkbox" id="question3" name="q" class="questions">
                         <div class="plus">+</div>
                         <label for="question3" class="question">
-                            Why is installing a solar panel at your home important?
+                            Why should homeowners invest in solar panels?
                         </label>
                         <div class="answers">
-                            <h2>Benefits of Solar Panels Installation - Save Electricity Bills With Corvelsolar Energy</h2>
-                            <p>
-
-                            <p>Installing a solar panel at your home might be important because if you are living in an area that receives ample sunlight, then you are wasting the chance of reducing your bills and your carbon footprint. Solar energy is the most abundant source of energy that we can utilize, and what could be better than making it a source of income? Contact Corvelsolar Energy today, the leading solar energy company that installs rooftop solar Gurgaon at the most reasonable rates. Solar panels will help you cut out your daily electricity requirements. Save significantly on electricity costs with the customized solar solutions by Corvelsolar Energy. Solar installation company near me - hurry and start your search now! .</p>
-
+                            <h2>Advantages of Installing Solar at Home</h2>
+                            <p>Home solar systems allow you to reduce electricity bills while contributing to a cleaner environment. With ample sunlight available in most regions, solar energy provides a practical and sustainable solution for long-term savings.</p>
+                            <p>Over time, a properly installed system becomes a valuable investment that delivers financial returns along with environmental benefits.</p>
                         </div>
                     </div>
 
@@ -1814,43 +1825,32 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
                         <input type="checkbox" id="question4" name="q" class="questions">
                         <div class="plus">+</div>
                         <label for="question4" class="question">
-                            What are the challenges of setting up small solar panel for home in India?
+                            What challenges are faced in small home solar installations in India?
                         </label>
                         <div class="answers">
-                            <h2>Rooftop Solar Panel Solutions for Home - Corvelsolar Energy </h2>
-                            <p>
-                                There are numerous challenges in setting up small solar panels for homes in India such as:</p>
+                            <h2>Factors to Consider for Residential Solar Setup</h2>
+                            <p>Some common challenges include limited awareness, financing concerns, subsidy-related procedures, and infrastructure constraints.</p>
                             <ul>
-                                <li>Lack of knowledge of solar systems</li>
-                                <li>The regulation complexities on subsidies and disbursements</li>
-                                <li>Finance issues</li>
-                                <li>Missing tax benefits</li>
-                                <li>Weak or incapable infrastructure </li>
+                                <li>Limited technical understanding</li>
+                                <li>Complex subsidy processes</li>
+                                <li>Financing limitations</li>
+                                <li>Tax-related uncertainties</li>
+                                <li>Structural or rooftop constraints</li>
                             </ul>
-                            <p>Other challenges might include the monsoon season in India. There is certainly no denying the fact that rainfall for the span of 2-3 months in India can ruin your solar setup. It’s better to consult experts from Corvelsolar Energy, the best solar company in Delhi, to get the best and most suitable solar advice and solutions that would do great for you.
-                            </p>
-
-
-
-
-
+                            <p>Consulting experienced solar professionals helps overcome these challenges and ensures optimal system performance in all seasons.</p>
                         </div>
                     </div>
+
                     <div class="faq-content">
                         <input type="checkbox" id="question5" name="q" class="questions">
                         <div class="plus">+</div>
                         <label for="question5" class="question">
-                            How much does it cost to install rooftop solar panels?
+                            What is the approximate cost of rooftop solar installation?
                         </label>
                         <div class="answers">
-                            <h2>Best Rooftop Solar Panel Installation Price - Corvelsolar Energy</h2>
-                            <p>It generally depends on a lot of factors such as your energy requirements and the quality you are choosing. Usually, the cost of installing a rooftop solar in Delhi might range from 60,000 to 6,00000 and can go beyond this if the area to be covered or energy to be generated is more. Though it may initially appear to you as the cost is way too much for an investment, it will help you save a lot of money in the long run. Additionally, it will reduce your carbon footprint and help you go green. Contact Corvelsolar Energy today.
-                            </p>
-
-
-
-
-
+                            <h2>Estimated Rooftop Solar Pricing</h2>
+                            <p>The installation cost depends on system capacity, energy needs, and component quality. Pricing may vary based on project size and site conditions.</p>
+                            <p>Although the initial investment can differ, rooftop solar systems offer long-term savings, reduced electricity expenses, and attractive returns over time.</p>
                         </div>
                     </div>
 
@@ -1858,92 +1858,21 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
                         <input type="checkbox" id="question6" name="q" class="questions">
                         <div class="plus">+</div>
                         <label for="question6" class="question">
-                            Why Corvelsolar Energy is the best solar power company in Gurgaon, Faridabad, Ghaziabad, Noida, Delhi NCR?
+                            Why choose Corvelsolar Energy in Delhi NCR?
                         </label>
                         <div class="answers">
-                            <h2>Top Solar Solution Provider in Gurgaon - Corvelsolar Energy</h2>
-                            <p>
-                                Corvelsolar Energy is considered the best solar power company in Noida, Gurgaon, Delhi,
-                                Ghaziabad, and Faridabad, because of its usage of world-class technology and quality
-                                installations at the most reasonable price. The solar systems and other solar solutions
-                                incorporated by Corvelsolar Energy requires negligible maintenance and are proven to be the safest
-                                investment option that gives high returns. With the incorporation of the system infused by
-                                Corvelsolar Energy, you can monitor your system from any location. Go environment-friendly with
-                                Corvelsolar Energy and make money from the sun while reducing your electricity bills significantly.
-                                Get in touch with Corvelsolar Energy today.
-                            </p>
+                            <h2>Preferred Solar Partner Across Delhi NCR</h2>
+                            <p>Corvelsolar Energy is known for its advanced technology, durable systems, and competitive pricing. The installations require minimal maintenance and provide reliable long-term performance.</p>
+                            <p>With smart monitoring features and dedicated customer support, clients receive efficient and future-ready renewable energy solutions.</p>
                         </div>
                     </div>
-
-                    <div class="faq-content">
-                        <input type="checkbox" id="question7" name="q" class="questions">
-                        <div class="plus">+</div>
-                        <label for="question7" class="question">
-                            What is industrial solar system?
-                        </label>
-                        <div class="answers">
-                            <!-- <h2>Leading Solar Energy Company in Gurgaon - Corvelsolar Energy</h2> -->
-                            <p>Major enterprises in India are turning to solar energy to prevent grid outages, which has led to an increase in the popularity of industrial solar power systems. Industrial solar power systems are being employed more frequently by the textile, cement, paper, steel, chemical, dairy, and ceramic industries to reduce their electricity costs. Some industrial companies in India are using solar energy to provide over half of their energy needs. Most homes, companies, and even renters are increasingly aware of the financial and environmental advantages that solar power has to offer. Corvelsolar Energy As a result, providing solar power to industries has become one of the fastest growing segments for solar firms in India.</p>
-
-
-                        </div>
-                    </div>
-
-                    <div class="faq-content">
-                        <input type="checkbox" id="question8" name="q" class="questions">
-                        <div class="plus">+</div>
-                        <label for="question8" class="question">
-                            How many solar power is needed to run a house?
-                        </label>
-                        <div class="answers">
-                            <!-- <h2>Best Solar Panel Installation Company - Corvelsolar Energy </h2> -->
-                            <p>
-
-                            <p>Do you want to add solar panels to your home? And has no idea how much solar power is required to power your home? The exact amount of solar power you'll need to install in your home is determined by factors such as geographic location, panel efficiency, panel rated power, and your personal energy consumption habits. Solar panels are an excellent way to save money while also going green. However, they are only effective when the proper products and installation are used. And Corvelsolar Energy has a network of reputable installers for your solar system, solar panels, and electricity requirements. Contact us today for more information and to install the best solar power in your home!</p>
-
-                        </div>
-                    </div>
-
-                    <div class="faq-content">
-                        <input type="checkbox" id="question9" name="q" class="questions">
-                        <div class="plus">+</div>
-                        <label for="question9" class="question">
-                            Which solar system is best for home ?
-                        </label>
-                        <div class="answers">
-                            <!-- <h2>Benefits of Solar Panels Installation - Save Electricity Bills With Corvelsolar Energy</h2> -->
-                            <p>
-
-                            <p>The Corvelsolar energy Solar installation for home cuts down your home electricity bill up to 90% . Corvelsolar energy returns up to 30% on your investment, better than any low-risk investment. Corvelsolar energy comes in beautifully designed pergola, crafted by engineers and designers, that transforms your roof into a space of worth. This green investment empowers you by giving you huge savings for lifetime. Invest in Corvelsolar solar power for your home today and save on electricity bill from Day 1. it will help you save a lot of money in the long run. Additionally, it will reduce your carbon footprint and help you go green. Contact Corvelsolar Energy today.</p>
-
-                        </div>
-                    </div>
-
-                    <div class="faq-content">
-                        <input type="checkbox" id="question10" name="q" class="questions">
-                        <div class="plus">+</div>
-                        <label for="question10" class="question">
-                            What size solar kit do I need for my house?
-                        </label>
-                        <div class="answers">
-                            <!-- <h2>Rooftop Solar Panel Solutions for Home - Corvelsolar Energy </h2> -->
-
-                            <p>If you want to minimise your electricity bill by installing solar panels on your roof, what size solar kit do you need for your home? if so, you're in the right place. The total number of kilowatts of solar panels required for your home will be determined by multiplying the average monthly power use of your home by 120, which will give you the real solar size kit that will entirely offset your home's electricity cost. The team of specialists at Corvelsolar Energy will take special care to install the optimum solar size kit for your home in accordance with your needs. To learn more contact us!</p>
-
-
-
-
-
-                        </div>
-                    </div>
-
-
 
                 </div>
+
             </div>
         </div>
     </section>
-    <section id="consaltation" class="d consaltation-section position-relative">
+    <section id="consaltation" class="consaltation-section position-relative" style="background-color: black;">
 
         <div class="container">
 
@@ -1963,7 +1892,7 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
 
                             <h3>Get a Free Consultation, Call Us </h3>
 
-                            <span style="color:#ff8a00;">+91 9650 728 179</span>
+                            <span style="color:#ff8a00;">+ 91 8595 448 674</span>
 
                         </div>
 
@@ -1987,19 +1916,18 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
 
 	============================================= -->
 
-    <section id="testimonial" class="d testimonial-section">
+    <section id="testimonial" class="testimonial-section">
 
         <div class="container">
 
             <div class="section-title-middle text-center">
 
                 <span class="title-tag testimonal-sub">
+    REAL RESULTS & GENUINE CLIENT TESTIMONIALS
+</span>
 
-                    GET THE RIGHT FACTS & CLIENTS TESTIMONIALS
+<h2>Corvelsolar Customer Success Stories</h2>
 
-                </span>
-
-                <h2>Corvelsolar Success Stories</h2>
 
             </div>
 
@@ -2023,9 +1951,10 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
 
                             </div>
 
-                            <p>“
-                            <p>I got a 15 kW on-grid solar system installed at my home in Ghaziabad by Corvelsolar Energy. The system is working perfectly and I&rsquo;m very satisfied with the performance. The team was professional, completed the installation smoothly, and provided full support throughout the process. I&rsquo;ve already started seeing the benefits in my electricity bills. Great experience overall!</p>
-                            </p>
+                           
+                           <p>I installed a 15 kW on-grid solar system at my residence in Ghaziabad with Corvelsolar Energy. The system is performing exceptionally well, and I am extremely happy with the results. Their team was professional, ensured a smooth installation process, and offered complete support from start to finish. I have already begun noticing significant savings on my electricity bills. Overall, it was a wonderful experience!</p>
+
+                            
 
                             <div class="testimonial-img-rate">
 
@@ -2037,7 +1966,7 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
 
                                 <div class="testimonial-rate ul-li">
 
-                                    <h4> Sanjay Kumar Gupta</h4>
+                                    <h4> Kumar Gupta</h4>
 
                                     <!-- <span>Eltron Company</span> -->
 
@@ -2068,9 +1997,10 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
 
                             </div>
 
-                            <p>“
-                            <p>I recently installed a 10 kW on-grid solar system at my home in Gurgaon through Corvelsolar Energy. The system is working perfectly, and I&rsquo;m really impressed with the overall performance. The installation was completed on time, and the team was very professional and cooperative. It&rsquo;s a great feeling to reduce my electricity bills while contributing to a greener future</p>
-                            </p>
+                            
+                            <p>I recently got a 10 kW on-grid solar system installed at my residence in Gurgaon with Corvelsolar Energy. The system is operating flawlessly, and I am truly impressed with its performance. The installation was completed on schedule, and the team was highly professional and supportive throughout the process. It feels great to lower my electricity bills while also contributing towards a cleaner and greener future.</p>
+
+                         
 
                             <div class="testimonial-img-rate">
 
@@ -2082,7 +2012,7 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
 
                                 <div class="testimonial-rate ul-li">
 
-                                    <h4> Bhawna Choudhary</h4>
+                                    <h4> Bhawna</h4>
 
                                     <!-- <span>Eltron Company</span> -->
 
@@ -2113,9 +2043,10 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
 
                             </div>
 
-                            <p>“
-                            <p>I got a 10 kW on-grid solar system installed at my residence in Dwarka by Corvelsolar Energy. The system is working flawlessly and I&rsquo;m really happy with its performance. The team was punctual, professional, and explained everything clearly during the process. It feels great to use clean energy and save on electricity bills at the same time!</p>
-                            </p>
+                            
+                           <p>I recently installed a 10 kW on-grid solar system at my home in Dwarka with Corvelsolar Energy. The system is performing seamlessly, and I’m extremely satisfied with the results. The team was punctual, professional, and guided me clearly through every step of the installation. It’s truly rewarding to generate clean energy while significantly reducing my electricity expenses.</p>
+
+                           
 
                             <div class="testimonial-img-rate">
 
@@ -2127,7 +2058,7 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
 
                                 <div class="testimonial-rate ul-li">
 
-                                    <h4> Astha Sharma</h4>
+                                    <h4> Raju Sharma</h4>
 
                                     <!-- <span>Eltron Company</span> -->
 
@@ -2158,9 +2089,11 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
 
                             </div>
 
-                            <p>“
-                            <p>I had a 10 kW on-grid solar system installed at my home in Faridabad by Corvelsolar Energy. The system is working perfectly and the performance is exactly what was promised. The team handled everything professionally and completed the installation on time. I&rsquo;m really happy with the service and the savings on my electricity bills</p>
-                            </p>
+                           
+                           <p>I recently had a 10 kW on-grid solar system installed at my residence in Faridabad through Corvelsolar Energy. The system is functioning perfectly, delivering exactly the performance that was promised. The team managed the entire process professionally and ensured timely completion of the installation. I am very pleased with the service and the noticeable savings on my electricity bills.</p>
+`
+
+                            
 
                             <div class="testimonial-img-rate">
 
@@ -2203,11 +2136,12 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
 
                             </div>
 
-                            <p>“
-                            <p>I recently got a 15 kW on-grid solar system installed at my home in Dwarka by Corvelsolar Energy. The system is working perfectly and I&rsquo;m very satisfied with its performance. The installation process was smooth, and the team was professional and supportive throughout. I&rsquo;ve already noticed a big reduction in my electricity bills. Going solar with Corvelsolar was definitely a smart choice!</p>
+                            
+                           <p>I recently installed a 15 kW on-grid solar system at my residence in Dwarka through Corvelsolar Energy. The system is performing exceptionally well, and I am extremely satisfied with its efficiency. The entire installation process was seamless, and the team remained professional and supportive at every stage. I have already experienced a significant reduction in my electricity bills. Choosing Corvelsolar for my solar journey was truly a wise decision.</p>
 
-                            <p>&nbsp;</p>
-                            </p>
+
+                            
+                           
 
                             <div class="testimonial-img-rate">
 
@@ -2257,23 +2191,23 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
 
 	============================================= -->
 
-    <section id="counter" class="d features-section position-relative">
+    <section id="counter" class="features-section position-relative">
         <div class="container">
 
             <h2 class="Prev">Corvelsolar Prevented</h2>
             <div class="row">
                 <div class="col-md-4 border-right">
-                    <h2>₹ <span class="counter">1,000,000</span>+</h2>
+                    <h2>₹ <span class="counter">2,000,000</span>+</h2>
                     <h3>Saved in electricity bills</h3>
 
                 </div>
                 <div class="col-md-4 border-right">
-                    <h2><span class="counter">1,000</span></h2>
+                    <h2><span class="counter">2,000</span></h2>
                     <h3>Tons of Co2 emissions reduced</h3>
 
                 </div>
                 <div class="col-md-4">
-                    <h2><span class="counter">10,000</span>+</h2>
+                    <h2><span class="counter">20,000</span>+</h2>
                     <h3>Trees Saved</h3>
 
                 </div>
@@ -2339,7 +2273,7 @@ Introducing our exclusive EDDIM model — designed to make your transition to so
 
 	============================================= -->
 
-    <footer id="footer-id" class="d footer-section eva-footer-section">
+    <footer id="footer-id" class="footer-section eva-footer-section">
 
         <div class="newslatter-section">
 
