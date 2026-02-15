@@ -666,14 +666,19 @@
 
             </div>
             <style>
-                .f{    text-align: center;
-    margin-bottom: 0px !important;
-    font-size: 62px;
-    color: orange;}
-    .ff{    text-align: center;
-    margin-bottom: 0px !important;
-    font-size: 130px;
-    color: orange;}
+                .f {
+                    text-align: center;
+                    margin-bottom: 0px !important;
+                    font-size: 62px;
+                    color: orange;
+                }
+
+                .ff {
+                    text-align: center;
+                    margin-bottom: 0px !important;
+                    font-size: 130px;
+                    color: orange;
+                }
             </style>
             <!-- /title -->
 
@@ -684,10 +689,10 @@
                     <div class="col-lg-3 col-md-3 col-6">
 
                         <div class="icon-box">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+                            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
                             <figure class="image-box-img mb-4 f">
-                               
+
                                 <i class="fa-solid fa-money-bill"></i>
                             </figure>
 
@@ -879,7 +884,7 @@
         <div class="container">
             <span class="title-tag" id="sub-text-first" style="text-align:center; display:block">
 
-                
+
 
             </span>
             <!--<h5></h5>-->
@@ -1054,11 +1059,11 @@
 
                 <span class="title-tag" style="font-weight: 400;">
 
-                    ENERGY WHICH MATTERS
+                    Smart Energy. Real Impact.
 
                 </span>
 
-                <h2>Corvelsolar Benefits</h2>
+                <h2>Why Choose Corvelsolar?</h2>
 
             </div>
 
@@ -1072,15 +1077,15 @@
 
                         <div class="features-icon-text text-center position-relative">
 
-                            <div class="features-icon">
+                            <div class="ff features-icon">
 
-                                <img width="256" height="256" src="img/home/winner.png" class="attachment-full size-full" alt="winner" loading="lazy" sizes="(max-width: 256px) 100vw, 256px">
+                                <i class="fa-solid fa-trophy"></i>
 
                             </div>
 
                             <div class="features-text headline pera-content">
 
-                                <h3>First choice for solar</h3>
+                                <h3>Solar Solutions</h3>
 
 
 
@@ -1096,11 +1101,12 @@
 
                                 <div class="features-hover-text headline pera-content">
 
-                                    <h3>
-                                        First choice for solar</h3>
+                                    <h3>Preferred Choice for Solar Solutions</h3>
 
                                     <p>
-                                        Our commitment towards providing unmatchable service to the customers make us the first choice for solar. We cater to different customers i.e. households, commercial building, factories, hospitals, schools, cold storages etc </p>
+                                        Our dedication to delivering exceptional service and reliable solar solutions has made us a trusted and preferred choice. We serve a wide range of clients including households, commercial buildings, factories, hospitals, schools, cold storage facilities, and more.
+                                    </p>
+
 
                                     <!--<div class="fh-more">-->
 
@@ -1120,15 +1126,15 @@
 
                         <div class="features-icon-text text-center position-relative">
 
-                            <div class="features-icon">
+                            <div class="ff features-icon">
 
-                                <img width="256" height="256" src="img/home/customer-service.png" class="attachment-full size-full" alt="winner" loading="lazy" sizes="(max-width: 256px) 100vw, 256px">
+                                <i class="fa-solid fa-headset"></i>
 
                             </div>
 
                             <div class="features-text headline pera-content">
 
-                                <h3>Life Time customer support</h3>
+                                <h3>customer support</h3>
 
 
 
@@ -1144,12 +1150,12 @@
 
                                 <div class="features-hover-text headline pera-content">
 
-                                    <h3>
-                                        Life Time customer support</h3>
+                                    <h3>Lifetime Customer Support</h3>
 
-                                    <p>
+<p>
+We offer dedicated lifetime customer support along with expert guidance to help you maintain your solar system efficiently. Our goal is to ensure maximum performance and uninterrupted energy generation for years to come.
+</p>
 
-                                        We provide the customers with a lifetime customer support and guidance on maintaining their solar system for generating maximum output lifelong with no hurdle </p>
 
                                     <!--<div class="fh-more">-->
 
@@ -1169,15 +1175,15 @@
 
                         <div class="features-icon-text text-center position-relative">
 
-                            <div class="features-icon">
+                            <div class="ff features-icon">
 
-                                <img width="256" height="256" src="img/home/team.png" class="attachment-full size-full" alt="winner" loading="lazy" sizes="(max-width: 256px) 100vw, 256px">
+                                <i class="fa-solid fa-users"></i>
 
                             </div>
 
                             <div class="features-text headline pera-content">
 
-                                <h3>Engineered And designed by industry expert</h3>
+                                <h3>Industry Experts</h3>
 
 
 
@@ -1193,13 +1199,12 @@
 
                                 <div class="features-hover-text headline pera-content">
 
-                                    <h3>
+                                   <h3>Engineered & Designed by Industry Experts</h3>
 
-                                        Engineered and designed by industry experts </h3>
+<p>
+Our team consists of experienced industry professionals who have successfully designed and executed distributed rooftop solar plants with a cumulative capacity of over 10 MW+. Their expertise ensures precision, efficiency, and high-performance solar solutions for every project.
+</p>
 
-                                    <p>
-
-                                        Having team of all industry leading experts who have experience of designing distributed rooftop solar plant of capacity more than 10 MW + </p>
 
                                     <!--<div class="fh-more">-->
 
@@ -1218,15 +1223,15 @@
 
                         <div class="features-icon-text text-center position-relative">
 
-                            <div class="features-icon">
+                            <div class="ff features-icon">
 
-                                <img width="256" height="256" src="img/home/premium.png" class="attachment-full size-full" alt="winner" loading="lazy" sizes="(max-width: 256px) 100vw, 256px">
+                                <i class="fa-solid fa-gem"></i>
 
                             </div>
 
                             <div class="features-text headline pera-content">
 
-                                <h3>Premium solar system</h3>
+                                <h3>Premium solar</h3>
 
 
 
@@ -1242,13 +1247,12 @@
 
                                 <div class="features-hover-text headline pera-content">
 
-                                    <h3>
+                                   <h3>Premium Solar Systems</h3>
 
-                                        Premium solar system </h3>
+<p>
+We deliver Tier-1 solar panels engineered for superior performance, paired with precision installation and world-class service standards. Our solutions combine cutting-edge technology, long-term reliability, and exceptional value — ensuring a seamless and rewarding solar experience at competitive pricing.
+</p>
 
-                                    <p>
-
-                                        We provide highest quality solar panels (Tier-1) with premium installation and world class service at affordable rates </p>
 
                                     <!--<div class="fh-more">-->
 
@@ -1267,15 +1271,15 @@
 
                         <div class="features-icon-text text-center position-relative">
 
-                            <div class="features-icon">
+                            <div class="ff features-icon">
 
-                                <img width="256" height="256" src="img/home/loan-img.png" class="attachment-full size-full" alt="winner" loading="lazy" sizes="(max-width: 256px) 100vw, 256px">
+                                <i class="fa-solid fa-hand-holding-dollar"></i>
 
                             </div>
 
                             <div class="features-text headline pera-content">
 
-                                <h3>Collateral free loan </h3>
+                                <h3>Free Financing</h3>
 
 
 
@@ -1291,12 +1295,12 @@
 
                                 <div class="features-hover-text headline pera-content">
 
-                                    <h3>
-                                        Collateral free loan</h3>
+                                    <h3>Collateral-Free Financing</h3>
 
-                                    <p>
+<p>
+Switch to solar with ease by paying just 30% upfront. We offer collateral-free loan options with competitive interest rates starting from 11%, making clean energy more accessible and affordable than ever.
+</p>
 
-                                        Buy solar system by just paying 30% upfront cost. Interest rates starting at just 11% </p>
 
                                     <!--<div class="fh-more">-->
 
@@ -1315,15 +1319,15 @@
 
                         <div class="features-icon-text text-center position-relative">
 
-                            <div class="features-icon">
+                            <div class="ff features-icon">
 
-                                <img width="256" height="256" src="img/home/iot.png" class="attachment-full size-full" alt="winner" loading="lazy" sizes="(max-width: 256px) 100vw, 256px">
+                                <i class="fa-solid fa-wifi"></i>
 
                             </div>
 
                             <div class="features-text headline pera-content">
 
-                                <h3>IOT Powered diagnostics</h3>
+                                <h3>IOT diagnostics</h3>
 
 
 
@@ -1339,12 +1343,12 @@
 
                                 <div class="features-hover-text headline pera-content">
 
-                                    <h3>
-                                        IOT Powered diagnostics</h3>
+                                    <h3>IoT-Powered Diagnostics</h3>
 
-                                    <p>
+<p>
+Our advanced IoT-enabled monitoring system allows customers to track their solar plant’s performance remotely through a mobile application. Monitor daily, monthly, and annual energy generation, view total savings in ₹, and access detailed performance insights — all in real time, from anywhere.
+</p>
 
-                                        Customers also have an option to monitor the performance of their solar power plant sitting far away through mobile application. The monitoring will mention daily, monthly and annual generation, total savings in ₹ and much more </p>
 
                                     <!--<div class="fh-more">-->
 
@@ -1362,7 +1366,10 @@
 
                 </div>
                 <div class="elementorsss-widget-container">
-                    <h4 class="elementor-heading-title elementor-size-default">Easy Buying Process | Premium Quality Systems | Financing Options Available | Lifetime Customer Support | Simplified Solar Solutions</h4>
+                   <h4 class="elementor-heading-title elementor-size-default">
+Hassle-Free Purchase | Top-Tier Solar Systems | Easy Financing | Lifetime Assistance | Intelligent Solar Solutions
+</h4>
+
                 </div>
             </div>
 
@@ -1380,7 +1387,7 @@
 
 	============================================= -->
 
-    <section id="expertise" class="d expertise-section position-relative">
+    <section id="expertise" class="expertise-section position-relative">
 
         <div class="container">
 
@@ -1394,17 +1401,18 @@
 
                             <div class="section-title-left">
 
-                                <span class="title-tag"><img src="img/home/icon6.svg" alt="Solar is For Home">Solar Facts</span>
+                                <span class="title-tag">
+                                    <i class="fa-solid fa-solar-panel"></i>
 
-                                <h2>Solar Is An All Weather Product</h2>
+                                   Key Solar Insights</span>
+
+                                <h2>Reliable Solar Power in Every Season</h2>
 
                             </div>
 
                             <div class="expertise-text-details">
-
-                                Install Solar and Take Benefits All-Weather, Day and Night
-
-                            </div>
+    Install solar and enjoy reliable energy benefits in every season — day and night.
+</div>
 
                             <div class="expertise-skill-progress">
 
@@ -1414,7 +1422,7 @@
 
                                         <div class="skill-title float-left text-capitalize">Rainy Days / Winter</div>
 
-                                        <div class="skill-percent float-right">80%</div>
+                                        <div class="skill-percent float-right">70%</div>
 
                                     </div>
 
@@ -1454,7 +1462,7 @@
 
                                         <div class="skill-title float-left text-capitalize">No Light With Batteries</div>
 
-                                        <div class="skill-percent float-right">90%</div>
+                                        <div class="skill-percent float-right">80%</div>
 
                                     </div>
 
@@ -1472,7 +1480,7 @@
 
                         </div>
 
-                        <div class="expertise-indicator-icon">
+                        <!-- <div class="expertise-indicator-icon">
 
                             <div class="expertise-icon-item active" data-target="#expertise_carouselid" data-slide-to="0">
 
@@ -1508,7 +1516,7 @@
 
                             </div>
 
-                        </div>
+                        </div> -->
 
                     </div>
 
@@ -1539,15 +1547,17 @@
 
     </section>
 
-    <div class="d mission-area" style="background-color:#ff8a00;">
+    <div class="mission-area" style="background-color:#ff8a00;">
 
         <div class="mission-text">
 
             <div class="section-title-left">
 
-                <span class="title-tag"><img src="img/home/icon6.svg" alt="Solar is For Home">Vision</span>
+                <span class="title-tag">
+                    <i class="fa-solid fa-eye"></i> Vision</span>
 
-                <h2>“To be the First Choice in Renewable Energy with Global Presence, Delivering Excellence to all the Stakeholders ”</h2>
+                <h2>To be the leading global choice in renewable energy, committed to excellence and sustainable value for every stakeholder.</h2>
+
 
             </div>
 
@@ -1571,10 +1581,14 @@
 
 
 
-    <section id="features" class="d features-section position-relative six-section-box focus-wraps">
+    <section id="features" class="features-section position-relative six-section-box focus-wraps">
 
-        <h2><span style=" text-transform: capitalize;">Corvelsolar</span> Buying Process</h2>
-        <h3>Presenting our unique EDDIM model, which simplifies your transition to solar energy! With an exceptional <strong>5kv solar panel price</strong>, we provide unparalleled affordability, dependability, and simplicity. Say goodbye to high expenses and welcome a sustainable, cost-effective future!</h3>
+       <h2><span style="text-transform: capitalize;">Corvelsolar</span> Buying Process</h2>
+
+<h3>
+Introducing our exclusive EDDIM model — designed to make your transition to solar simple and seamless. With competitive 5kW solar panel pricing, we ensure affordability, reliability, and complete peace of mind. Move beyond rising electricity costs and embrace a smarter, sustainable, and cost-effective energy future.
+</h3>
+
 
 
         <div class="container">
