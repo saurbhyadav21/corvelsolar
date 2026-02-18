@@ -7,7 +7,7 @@
     <title>Solar Installation Company Near Me | Rooftop Solar in Delhi</title>
     <meta name="keywords" content="industrial solar power system, industrial solar system, rooftop solar in delhi, solar installation company near me, solar installers near me, solar panel installation for home, solar panel kits for home, solar panel setup for home, solar panel system for home, solar panels for home use, solar system installation at home">
     <meta name="description" content="Corvel Solar Energy, a leading solar power installation company in Delhi NCR, offers rooftop solar setups at affordable prices. become energy independent.">
-    <link rel="canonical" href="https://www.Corvel Solar.com">
+    <link rel="canonical" href="https://www.Corvelsolar.com">
     <link rel="shortcut icon" href="icon/favicon.png" type="image/x-icon">
 
 
@@ -76,7 +76,7 @@
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="header_top_info float-right">
+                        <div class="header_top_info float-right" style="    float: right;">
                             <!-- <div class="top_info_item top_info_menu ul-li clearfix">
                            <ul>
                            
@@ -89,13 +89,13 @@
                            </ul>
                            
                            </div> -->
-                            <div class="top_info_item top_info_social ul-li clearfix" style="display: none;">
+                            <div class="top_info_item top_info_social ul-li clearfix">
                                 <ul>
-                                    <li><a href="https://twitter.com/energyCorvel Solar"><i class="fab fa-twitter" aria-label="Twitter"></i></a></li>
-                                    <li><a href="https://www.instagram.com/Corvel Solar/"><i class="fab fa-instagram" aria-label="Instagram"></i></a></li>
-                                    <li><a href="https://www.facebook.com/Corvel Solary/"><i class="fab fa-facebook-f" aria-label="Facebook"></i></a></li>
-                                    <li><a href="https://www.youtube.com/channel/UCdsflKgMSSZI59vaOJZd1DQ"><i class="fab fa-youtube" aria-label="Youtube"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/company/Corvel Solar-energy"><i class="fab fa-linkedin-in" aria-label="Linkedin"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter" aria-label="Twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-instagram" aria-label="Instagram"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-facebook-f" aria-label="Facebook"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-youtube" aria-label="Youtube"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in" aria-label="Linkedin"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -106,12 +106,12 @@
         <div class="site-main-menu clearfix header-eva-home">
             <div class="container-fluid">
                 <div class="brand-logo float-left">
-                    <a href="https://www.Corvel Solar.com">
+                    <a href="https://www.CorvelSolar.com">
                         <img src="img/logo.png" alt="Corvel Solar Energy">
                         <!-- Corvel Solar -->
                     </a>
                 </div>
-                <nav class="main_navigation desktop-menu ul-li" style="display: none;">
+                <nav class="main_navigation desktop-menu ul-li">
                     <ul id="main-nav" class="navbar-nav text-uppercase clearfix">
                         <!-- <li class="dropdown">
                         <a href="index.html">Home</a>
@@ -125,11 +125,11 @@
                         </ul>
                         
                         </li> -->
-                        <li><a href="https://www.Corvel Solar.com/all-about-solar">All About Solar</a></li>
-                        <li><a href="https://www.Corvel Solar.com/refer-a-friend-and-earn">Refer A Friend And Earn</a></li>
-                        <li><a href="https://www.Corvel Solar.com/savings-calculator">Solar Energy Calculator</a></li>
-                        <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Purchase Your Solar System</a></li>
-                        <li><a href="https://www.Corvel Solar.com/knowledge-centre">Knowledge Center</a></li>
+                        <li><a href="https://www.Corvelsolar.com/all-about-solar">All About Solar</a></li>
+                        <li><a href="https://www.Corvelsolar.com/refer-a-friend-and-earn">Refer A Friend And Earn</a></li>
+                        <li><a href="https://www.Corvelsolar.com/savings-calculator">Solar Energy Calculator</a></li>
+                        <li><a href="https://www.Corvelsolar.com/purchase-your-solar-system">Purchase Your Solar System</a></li>
+                        <li><a href="https://www.Corvelsolar.com/knowledge-centre">Knowledge Center</a></li>
                         <!-- <li class="dropdown">
                         <a href="service.html">Services</a>
                         
@@ -2525,7 +2525,7 @@
 
         <div class="footer-copyright-text text-center">
 
-            <p>Copyright © 2025 <a href="https://www.corvelsolar.com/" aria-hidden="true">Corvel Solar Energy Pvt. Ltd.</a> All rights reserved</p>
+            <p>Copyright © 2025 <a href="https://www.corvelsolar.com/" aria-hidden="true">CORVEL INDIA SOLAR ENERGY ENTERPRISES</a> All rights reserved</p>
 
             
 
