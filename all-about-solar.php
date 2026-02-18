@@ -1,4 +1,5 @@
 <?php include "header.php"; ?>
+
 <div class="subheader">
     <div class="container">
         <div class="subheader-inner">
@@ -14,8 +15,8 @@
             <div class="col-lg-6">
                 <div class="about-content">
     <div class="about-title">
-        <img src="https://www.corvelsolar.com/website/assets/icon/icon-1.svg" alt="Rooftop solar energy">
-        <h1 class="about-short-title">Rooftop Solar Technology</h1>
+
+    <h1 class="">Rooftop Solar Technology</h1>
     </div>
 
     <p>Rooftop solar technology is one of the most efficient and reliable ways to generate clean and sustainable energy. When sunlight falls on solar panels installed on residential, commercial, or industrial rooftops, the photovoltaic cells inside the modules convert the sunlight into direct current (DC) electricity. This electricity is then used to power the building’s electrical needs. Solar panels are specially designed to capture solar energy and transform it into usable power through advanced photovoltaic technology. The generated DC power is sent to an inverter, which converts it into alternating current (AC) for everyday use. Any surplus electricity can either be stored in batteries or exported to the grid for future consumption. At Evaska Energy, you can find the ideal rooftop solar solution tailored to your home’s requirements.</p>
@@ -31,7 +32,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="about-image">
-                    <img src="https://www.corvelsolar.com/website/assets/img/about/about-1.webp" alt="Rooftop solar energy" class="img-fluid">
+                    <img src="img/about-1.PNG" alt="Rooftop solar energy" class="img-fluid">
                 </div>
             </div>
         </div>
