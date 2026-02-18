@@ -6,8 +6,8 @@
 
     <title>Solar Installation Company Near Me | Rooftop Solar in Delhi</title>
     <meta name="keywords" content="industrial solar power system, industrial solar system, rooftop solar in delhi, solar installation company near me, solar installers near me, solar panel installation for home, solar panel kits for home, solar panel setup for home, solar panel system for home, solar panels for home use, solar system installation at home">
-    <meta name="description" content="Corvelsolar Energy, a leading solar power installation company in Delhi NCR, offers rooftop solar setups at affordable prices. become energy independent.">
-    <link rel="canonical" href="https://www.corvelsolar.com">
+    <meta name="description" content="Corvel Solar Energy, a leading solar power installation company in Delhi NCR, offers rooftop solar setups at affordable prices. become energy independent.">
+    <link rel="canonical" href="https://www.Corvel Solar.com">
     <link rel="shortcut icon" href="icon/favicon.png" type="image/x-icon">
 
 
@@ -59,7 +59,7 @@
     <div id="preloader"></div>
     <div id="overlay"></div>
     <div class="up">
-        <a href="#" class="scrollup text-center  Corvelsolar-scroll"><i class="fas fa-chevron-up"></i></a>
+        <a href="#" class="scrollup text-center  Corvel Solar-scroll"><i class="fas fa-chevron-up"></i></a>
     </div>
     <!-- Start of header section
          ============================================= -->
@@ -71,7 +71,7 @@
                         <div class="header_top_contact ul-li clearfix">
                             <ul>
                                 <li> <i class="icon-call-out"></i> + 91 8595 448 674</li>
-                                <li> <i class="icon-envelope-letter"></i> customersupport@corvelsolar.com</li>
+                                <li> <i class="icon-envelope-letter"></i> customersupport@Corvel Solar.com</li>
                             </ul>
                         </div>
                     </div>
@@ -91,11 +91,11 @@
                            </div> -->
                             <div class="top_info_item top_info_social ul-li clearfix" style="display: none;">
                                 <ul>
-                                    <li><a href="https://twitter.com/energyCorvelsolar"><i class="fab fa-twitter" aria-label="Twitter"></i></a></li>
-                                    <li><a href="https://www.instagram.com/corvelsolar/"><i class="fab fa-instagram" aria-label="Instagram"></i></a></li>
-                                    <li><a href="https://www.facebook.com/corvelsolary/"><i class="fab fa-facebook-f" aria-label="Facebook"></i></a></li>
+                                    <li><a href="https://twitter.com/energyCorvel Solar"><i class="fab fa-twitter" aria-label="Twitter"></i></a></li>
+                                    <li><a href="https://www.instagram.com/Corvel Solar/"><i class="fab fa-instagram" aria-label="Instagram"></i></a></li>
+                                    <li><a href="https://www.facebook.com/Corvel Solary/"><i class="fab fa-facebook-f" aria-label="Facebook"></i></a></li>
                                     <li><a href="https://www.youtube.com/channel/UCdsflKgMSSZI59vaOJZd1DQ"><i class="fab fa-youtube" aria-label="Youtube"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/company/Corvelsolar-energy"><i class="fab fa-linkedin-in" aria-label="Linkedin"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/Corvel Solar-energy"><i class="fab fa-linkedin-in" aria-label="Linkedin"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -106,9 +106,9 @@
         <div class="site-main-menu clearfix header-eva-home">
             <div class="container-fluid">
                 <div class="brand-logo float-left">
-                    <a href="https://www.corvelsolar.com">
-                        <img src="img/logo.png" alt="Corvelsolar Energy">
-                        <!-- Corvelsolar -->
+                    <a href="https://www.Corvel Solar.com">
+                        <img src="img/logo.png" alt="Corvel Solar Energy">
+                        <!-- Corvel Solar -->
                     </a>
                 </div>
                 <nav class="main_navigation desktop-menu ul-li" style="display: none;">
@@ -125,11 +125,11 @@
                         </ul>
                         
                         </li> -->
-                        <li><a href="https://www.corvelsolar.com/all-about-solar">All About Solar</a></li>
-                        <li><a href="https://www.corvelsolar.com/refer-a-friend-and-earn">Refer A Friend And Earn</a></li>
-                        <li><a href="https://www.corvelsolar.com/savings-calculator">Solar Energy Calculator</a></li>
-                        <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">Purchase Your Solar System</a></li>
-                        <li><a href="https://www.corvelsolar.com/knowledge-centre">Knowledge Center</a></li>
+                        <li><a href="https://www.Corvel Solar.com/all-about-solar">All About Solar</a></li>
+                        <li><a href="https://www.Corvel Solar.com/refer-a-friend-and-earn">Refer A Friend And Earn</a></li>
+                        <li><a href="https://www.Corvel Solar.com/savings-calculator">Solar Energy Calculator</a></li>
+                        <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Purchase Your Solar System</a></li>
+                        <li><a href="https://www.Corvel Solar.com/knowledge-centre">Knowledge Center</a></li>
                         <!-- <li class="dropdown">
                         <a href="service.html">Services</a>
                         
@@ -195,7 +195,7 @@
                         <i class="fas fa-arrow-circle-right"></i>
                     </div>
                     <div class="m-brand-logo text-center">
-                        <a href="#"><img src="img/logo/logo1.png" alt="Corvelsolar Energy"></a>
+                        <a href="#"><img src="img/logo/logo1.png" alt="Corvel Solar Energy"></a>
                     </div>
                     <!--<div class="mobile-search">-->
                     <!--	<form class="form-item position-relative" action="#" method="">-->
@@ -231,12 +231,12 @@
                            	</ul>
                            
                            </li> -->
-                            <li><a href="https://www.corvelsolar.com/blogs">Blogs</a></li>
-                            <li><a href="https://www.corvelsolar.com/all-about-solar">All About Solar</a></li>
-                            <li><a href="https://www.corvelsolar.com/refer-a-friend-and-earn">Refer A Friend And Earn</a></li>
-                            <li><a href="https://www.corvelsolar.com/savings-calculator">Solar Energy Calculator</a></li>
-                            <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">Purchase Your Solar System</a></li>
-                            <li><a href="https://www.corvelsolar.com/knowledge-centre">Knowledge Center</a></li>
+                            <li><a href="https://www.Corvel Solar.com/blogs">Blogs</a></li>
+                            <li><a href="https://www.Corvel Solar.com/all-about-solar">All About Solar</a></li>
+                            <li><a href="https://www.Corvel Solar.com/refer-a-friend-and-earn">Refer A Friend And Earn</a></li>
+                            <li><a href="https://www.Corvel Solar.com/savings-calculator">Solar Energy Calculator</a></li>
+                            <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Purchase Your Solar System</a></li>
+                            <li><a href="https://www.Corvel Solar.com/knowledge-centre">Knowledge Center</a></li>
                         </ul>
                     </nav>
                     <!--<div class="mobile-contact-info text-center ul-li-block">-->
@@ -275,7 +275,7 @@
                     <h4 class="title">get in touch</h4>
                     <p>Drop a few lines below and press</p>
 
-                    <form method="post" action="https://www.corvelsolar.com/submitpop" class="form-wrapper">>
+                    <form method="post" action="https://www.Corvel Solar.com/submitpop" class="form-wrapper">>
                         <input type="hidden" name="_token" value="bmrnK724hwcwwX3L25n2AxBnTeH8cZCz89jQdwA5">
                         <div class="d-flex">
                             <input type="text" required placeholder="Enter Your Name" name="name">
@@ -432,7 +432,7 @@
                         <p>Your Trusted Partner in Solar Energy</p>
 
                         <div class="slide-btn-1">
-                            <a href="https://www.corvelsolar.com/contact">
+                            <a href="https://www.Corvel Solar.com/contact">
                                 Start Saving on Your Electricity Bills <i class="flaticon-next"></i>
                             </a>
                         </div>
@@ -441,7 +441,7 @@
                 </div>
                 <div class="home-banner-form banner-form">
                     <div class="form-wrapper">
-                        <form method="post" action="https://www.corvelsolar.com/submitpop" id="formid">
+                        <form method="post" action="https://www.Corvel Solar.com/submitpop" id="formid">
                             <input type="hidden" name="_token" value="bmrnK724hwcwwX3L25n2AxBnTeH8cZCz89jQdwA5">
                             <div class="col-12">
                                 <div class="form-group">
@@ -656,7 +656,7 @@
                 </span>
 
                 <h2>One Time Investment & Lifetime Savings</h2><br>
-                <span class="title-tag">Corvelsolar Energy makes the switch to solar easy by providing clear guidance and a smooth, end-to-end installation experience. Our high-performance residential solar systems help homeowners cut their electricity bills by up to 90%.</span>
+                <span class="title-tag">Corvel Solar Energy makes the switch to solar easy by providing clear guidance and a smooth, end-to-end installation experience. Our high-performance residential solar systems help homeowners cut their electricity bills by up to 90%.</span>
                 <br /><br />
                 <span class="title-tag">Take advantage of available solar incentives and flexible financing options to make your investment even more affordable. Explore our competitively priced commercial solar solutions designed to deliver maximum value for your business.</span>
 
@@ -891,7 +891,7 @@
             <h2>Where to Use Solar?</h2>
             <h4 style="text-align: center;">Anywhere… Yes, Absolutely Anywhere.</h4><br>
             <span class="title-tag">You heard that right. Renewable energy like solar can be implemented almost everywhere, making it one of the most versatile and practical power solutions available today.</span><br>
-            <span class="title-tag">With <strong>Corvelsolar Energy</strong>, explore a complete range of options — from affordable residential solar panel solutions to large-scale commercial and industrial installations.</span>
+            <span class="title-tag">With <strong>Corvel Solar Energy</strong>, explore a complete range of options — from affordable residential solar panel solutions to large-scale commercial and industrial installations.</span>
 
             <div class="use-solar-row">
 
@@ -1063,7 +1063,7 @@
 
                 </span>
 
-                <h2>Why Choose Corvelsolar?</h2>
+                <h2>Why Choose Corvel Solar?</h2>
 
             </div>
 
@@ -1583,7 +1583,7 @@
 
     <section id="features" class="features-section position-relative six-section-box focus-wraps">
 
-        <h2><span style="text-transform: capitalize;">Corvelsolar</span> Buying Process</h2>
+        <h2><span style="text-transform: capitalize;">Corvel Solar</span> Buying Process</h2>
 
         <h3>
             Introducing our exclusive EDDIM model — designed to make your transition to solar simple and seamless. With competitive 5kW solar panel pricing, we ensure affordability, reliability, and complete peace of mind. Move beyond rising electricity costs and embrace a smarter, sustainable, and cost-effective energy future.
@@ -1751,14 +1751,14 @@
                             <div class="features-text headline pera-content">
 
                                 <figure class="elementor-image-box-img">
-                                    <a href="https://www.corvelsolar.com/contact">
+                                    <a href="https://www.Corvel Solar.com/contact">
                                         <i class="f fa-solid fa-sun"></i>
 
                                     </a>
                                 </figure>
 
                                 <h3 style="color:#fff;">Go Solar<br>
-                                    The Corvelsolar Way!</h3>
+                                    The Corvel Solar Way!</h3>
 
                             </div>
 
@@ -1789,9 +1789,9 @@
                             Which is a trusted solar energy company in Gurgaon?
                         </label>
                         <div class="answers">
-                            <h2>Reliable Solar Energy Provider in Gurgaon - Corvelsolar Energy</h2>
-                            <p>Corvelsolar Energy is regarded as one of the most dependable solar solution providers in Gurgaon, offering customized and end-to-end renewable energy systems. The company focuses on reducing grid dependency and helping customers significantly lower their electricity expenses through advanced solar technology.</p>
-                            <p>If you are planning to switch to solar, choosing a company known for quality products, professional installation, and long-term reliability is essential. Corvelsolar Energy delivers performance-driven systems backed by industry expertise.</p>
+                            <h2>Reliable Solar Energy Provider in Gurgaon - Corvel Solar Energy</h2>
+                            <p>Corvel Solar Energy is regarded as one of the most dependable solar solution providers in Gurgaon, offering customized and end-to-end renewable energy systems. The company focuses on reducing grid dependency and helping customers significantly lower their electricity expenses through advanced solar technology.</p>
+                            <p>If you are planning to switch to solar, choosing a company known for quality products, professional installation, and long-term reliability is essential. Corvel Solar Energy delivers performance-driven systems backed by industry expertise.</p>
                         </div>
                     </div>
 
@@ -1858,11 +1858,11 @@
                         <input type="checkbox" id="question6" name="q" class="questions">
                         <div class="plus">+</div>
                         <label for="question6" class="question">
-                            Why choose Corvelsolar Energy in Delhi NCR?
+                            Why choose Corvel Solar Energy in Delhi NCR?
                         </label>
                         <div class="answers">
                             <h2>Preferred Solar Partner Across Delhi NCR</h2>
-                            <p>Corvelsolar Energy is known for its advanced technology, durable systems, and competitive pricing. The installations require minimal maintenance and provide reliable long-term performance.</p>
+                            <p>Corvel Solar Energy is known for its advanced technology, durable systems, and competitive pricing. The installations require minimal maintenance and provide reliable long-term performance.</p>
                             <p>With smart monitoring features and dedicated customer support, clients receive efficient and future-ready renewable energy solutions.</p>
                         </div>
                     </div>
@@ -1898,7 +1898,7 @@
 
                         <div class="consalt-btn text-center text-uppercase">
 
-                            <a href="https://www.corvelsolar.com/contact">contact us <i class="flaticon-next"></i></a>
+                            <a href="https://www.Corvel Solar.com/contact">contact us <i class="flaticon-next"></i></a>
 
                         </div>
 
@@ -1926,7 +1926,7 @@
     REAL RESULTS & GENUINE CLIENT TESTIMONIALS
 </span>
 
-<h2>Corvelsolar Customer Success Stories</h2>
+<h2>Corvel Solar Customer Success Stories</h2>
 
 
             </div>
@@ -1952,7 +1952,7 @@
                             </div>
 
                            
-                           <p>I installed a 15 kW on-grid solar system at my residence in Ghaziabad with Corvelsolar Energy. The system is performing exceptionally well, and I am extremely happy with the results. Their team was professional, ensured a smooth installation process, and offered complete support from start to finish. I have already begun noticing significant savings on my electricity bills. Overall, it was a wonderful experience!</p>
+                           <p>I installed a 15 kW on-grid solar system at my residence in Ghaziabad with Corvel Solar Energy. The system is performing exceptionally well, and I am extremely happy with the results. Their team was professional, ensured a smooth installation process, and offered complete support from start to finish. I have already begun noticing significant savings on my electricity bills. Overall, it was a wonderful experience!</p>
 
                             
 
@@ -1998,7 +1998,7 @@
                             </div>
 
                             
-                            <p>I recently got a 10 kW on-grid solar system installed at my residence in Gurgaon with Corvelsolar Energy. The system is operating flawlessly, and I am truly impressed with its performance. The installation was completed on schedule, and the team was highly professional and supportive throughout the process. It feels great to lower my electricity bills while also contributing towards a cleaner and greener future.</p>
+                            <p>I recently got a 10 kW on-grid solar system installed at my residence in Gurgaon with Corvel Solar Energy. The system is operating flawlessly, and I am truly impressed with its performance. The installation was completed on schedule, and the team was highly professional and supportive throughout the process. It feels great to lower my electricity bills while also contributing towards a cleaner and greener future.</p>
 
                          
 
@@ -2044,7 +2044,7 @@
                             </div>
 
                             
-                           <p>I recently installed a 10 kW on-grid solar system at my home in Dwarka with Corvelsolar Energy. The system is performing seamlessly, and I’m extremely satisfied with the results. The team was punctual, professional, and guided me clearly through every step of the installation. It’s truly rewarding to generate clean energy while significantly reducing my electricity expenses.</p>
+                           <p>I recently installed a 10 kW on-grid solar system at my home in Dwarka with Corvel Solar Energy. The system is performing seamlessly, and I’m extremely satisfied with the results. The team was punctual, professional, and guided me clearly through every step of the installation. It’s truly rewarding to generate clean energy while significantly reducing my electricity expenses.</p>
 
                            
 
@@ -2090,7 +2090,7 @@
                             </div>
 
                            
-                           <p>I recently had a 10 kW on-grid solar system installed at my residence in Faridabad through Corvelsolar Energy. The system is functioning perfectly, delivering exactly the performance that was promised. The team managed the entire process professionally and ensured timely completion of the installation. I am very pleased with the service and the noticeable savings on my electricity bills.</p>
+                           <p>I recently had a 10 kW on-grid solar system installed at my residence in Faridabad through Corvel Solar Energy. The system is functioning perfectly, delivering exactly the performance that was promised. The team managed the entire process professionally and ensured timely completion of the installation. I am very pleased with the service and the noticeable savings on my electricity bills.</p>
 `
 
                             
@@ -2137,7 +2137,7 @@
                             </div>
 
                             
-                           <p>I recently installed a 15 kW on-grid solar system at my residence in Dwarka through Corvelsolar Energy. The system is performing exceptionally well, and I am extremely satisfied with its efficiency. The entire installation process was seamless, and the team remained professional and supportive at every stage. I have already experienced a significant reduction in my electricity bills. Choosing Corvelsolar for my solar journey was truly a wise decision.</p>
+                           <p>I recently installed a 15 kW on-grid solar system at my residence in Dwarka through Corvel Solar Energy. The system is performing exceptionally well, and I am extremely satisfied with its efficiency. The entire installation process was seamless, and the team remained professional and supportive at every stage. I have already experienced a significant reduction in my electricity bills. Choosing Corvel Solar for my solar journey was truly a wise decision.</p>
 
 
                             
@@ -2194,7 +2194,7 @@
     <section id="counter" class="features-section position-relative">
         <div class="container">
 
-            <h2 class="Prev">Corvelsolar Prevented</h2>
+            <h2 class="Prev">Corvel Solar Prevented</h2>
             <div class="row">
                 <div class="col-md-4 border-right">
                     <h2>₹ <span class="counter">2,000,000</span>+</h2>
@@ -2347,7 +2347,7 @@
 
                                 <p><i class="icon-pin"></i> Our Office Location</p>
 
-                                <h3>401-402, Fourth, Green Wood Plaza, Block B, Greenwood City, Sector 45, Gurugram, Haryana</h3>
+                                <h3>FB-140A, First Floor, Galaxy Diamond Plaza, Greater Noida West-201318</h3>
 
                             </div>
 
@@ -2371,7 +2371,7 @@
 
                                 <p><i class="icon-envelope-letter"></i> Send Email</p>
 
-                                <h3>hello@corvelsolar.com</h3>
+                                <h3>hello@Corvel Solar.com</h3>
 
                             </div>
 
@@ -2403,21 +2403,21 @@
 
                                 <div class="footer-logo-widget">
 
-                                    <a class="footer-logo" href="#"><img src="img/logo/logo1.webp" alt="Corvelsolar Energy"></a>
+                                    <a class="footer-logo" href="#"><img src="img/logo/logo1.webp" alt="Corvel Solar Energy"></a>
 
-                                    <p>Corvelsolar is the first choice for solar having operations in multiple cities in northern India.</p>
+                                    <p>Corvel Solar is the first choice for solar having operations in multiple cities in northern India.</p>
 
-                                    <p>Corvelsolar solar rooftop systems come with a 30-year of customer support for all and have emerged among the top companies in the list of solar epc companies in Delhi NCR. We are your one-stop destination for solar system installation at home and offer the best industrial solar panel price</p>
+                                    <p>Corvel Solar solar rooftop systems come with a 30-year of customer support for all and have emerged among the top companies in the list of solar epc companies in Delhi NCR. We are your one-stop destination for solar system installation at home and offer the best industrial solar panel price</p>
 
                                     <div class="footer-social">
-                                        <a href="https://twitter.com/energyCorvelsolar"><i class="fab fa-twitter" aria-label="fa-twitter"></i></a>
-                                        <a href="https://www.facebook.com/corvelsolary/"><i class="fab fa-facebook-f" aria-label="fa-facebook-f"></i></a>
-                                        <a href="https://www.instagram.com/corvelsolar/"><i class="fab fa-instagram" aria-label="fa-instagram"></i></a>
+                                        <a href="https://twitter.com/energyCorvel Solar"><i class="fab fa-twitter" aria-label="fa-twitter"></i></a>
+                                        <a href="https://www.facebook.com/Corvel Solary/"><i class="fab fa-facebook-f" aria-label="fa-facebook-f"></i></a>
+                                        <a href="https://www.instagram.com/Corvel Solar/"><i class="fab fa-instagram" aria-label="fa-instagram"></i></a>
 
 
                                         <a href="https://www.youtube.com/channel/UCdsflKgMSSZI59vaOJZd1DQ"><i class="fab fa-youtube" aria-label="fa-youtube"></i></a>
 
-                                        <a href="https://www.linkedin.com/company/Corvelsolar-energy"><i class="fab fa-linkedin-in" aria-label="fa-linkedin-in"></i></a>
+                                        <a href="https://www.linkedin.com/company/Corvel Solar-energy"><i class="fab fa-linkedin-in" aria-label="fa-linkedin-in"></i></a>
 
 
 
@@ -2439,15 +2439,15 @@
 
                                     <div class="textwidget custom-html-widget">
                                         <ul>
-                                            <li><a href="https://www.corvelsolar.com">Home</a></li>
-                                            <li><a href="https://www.corvelsolar.com/blogs">Blogs</a></li>
-                                            <li><a href="https://www.corvelsolar.com/all-about-solar">All about Solar</a></li>
-                                            <li><a href="https://www.corvelsolar.com/refer-a-friend-and-earn">Refer a friend and earn</a></li>
-                                            <li><a href="https://www.corvelsolar.com/savings-calculator">Savings Calculator </a></li>
-                                            <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">Purchase your solar system </a></li>
-                                            <li><a href="https://www.corvelsolar.com/knowledge-centre">Knowledge centre </a></li>
-                                            <li><a href="https://www.corvelsolar.com/terms">Terms of Use</a></li>
-                                            <li><a href="https://www.corvelsolar.com/privacy">Privacy Policy</a></li>
+                                            <li><a href="https://www.Corvel Solar.com">Home</a></li>
+                                            <li><a href="https://www.Corvel Solar.com/blogs">Blogs</a></li>
+                                            <li><a href="https://www.Corvel Solar.com/all-about-solar">All about Solar</a></li>
+                                            <li><a href="https://www.Corvel Solar.com/refer-a-friend-and-earn">Refer a friend and earn</a></li>
+                                            <li><a href="https://www.Corvel Solar.com/savings-calculator">Savings Calculator </a></li>
+                                            <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Purchase your solar system </a></li>
+                                            <li><a href="https://www.Corvel Solar.com/knowledge-centre">Knowledge centre </a></li>
+                                            <li><a href="https://www.Corvel Solar.com/terms">Terms of Use</a></li>
+                                            <li><a href="https://www.Corvel Solar.com/privacy">Privacy Policy</a></li>
                                         </ul>
                                     </div>
 
@@ -2467,17 +2467,17 @@
 
                                     <ul>
 
-                                        <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">Factory</a></li>
-                                        <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">Industry</a></li>
-                                        <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">Hospitals</a></li>
-                                        <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">Hotels</a></li>
-                                        <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">Schools</a></li>
-                                        <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">Offices</a></li>
+                                        <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Factory</a></li>
+                                        <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Industry</a></li>
+                                        <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Hospitals</a></li>
+                                        <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Hotels</a></li>
+                                        <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Schools</a></li>
+                                        <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Offices</a></li>
 
 
-                                        <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">Cold Storages</a></li>
-                                        <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">Apartments</a></li>
-                                        <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">All Roofs</a></li>
+                                        <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Cold Storages</a></li>
+                                        <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Apartments</a></li>
+                                        <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">All Roofs</a></li>
                                     </ul>
 
                                 </div>
@@ -2495,16 +2495,16 @@
                                     <h3 class="el-widget-title">OUR PRESENCE</h3>
 
                                     <ul>
-                                        <li><a href="https://www.corvelsolar.com/solar-companies-in-gurgaon">Solar power in Gurgaon</a></li>
-                                        <li><a href="https://www.corvelsolar.com/solar-power-company-in-manesar">Solar power in Manesar</a></li>
-                                        <li><a href="https://www.corvelsolar.com/solar-power-company-in-greater-noida">Solar power in Greater Noida</a></li>
-                                        <li><a href="https://www.corvelsolar.com/solar-power-company-in-dwarka">Solar power in Dwarka</a></li>
-                                        <li><a href="https://www.corvelsolar.com/solar-companies-in-delhi">Solar power in Delhi</a></li>
-                                        <li><a href="https://www.corvelsolar.com/solar-energy-company-in-faridabad">Solar power in Faridabad</a></li>
-                                        <li><a href="https://www.corvelsolar.com/solar-energy-company-in-noida">Solar power in Noida</a></li>
-                                        <li><a href="https://www.corvelsolar.com/solar-energy-company-in-ghaziabad">Solar power in Ghaziabad</a></li>
-                                        <!--<li><a href="https://www.corvelsolar.com/solar-energy-installation">Solar Energy Installation</a></li>-->
-                                        <li><a href="https://www.corvelsolar.com/price-of-solar-panel">Price of solar panel</a></li>
+                                        <li><a href="https://www.Corvel Solar.com/solar-companies-in-gurgaon">Solar power in Gurgaon</a></li>
+                                        <li><a href="https://www.Corvel Solar.com/solar-power-company-in-manesar">Solar power in Manesar</a></li>
+                                        <li><a href="https://www.Corvel Solar.com/solar-power-company-in-greater-noida">Solar power in Greater Noida</a></li>
+                                        <li><a href="https://www.Corvel Solar.com/solar-power-company-in-dwarka">Solar power in Dwarka</a></li>
+                                        <li><a href="https://www.Corvel Solar.com/solar-companies-in-delhi">Solar power in Delhi</a></li>
+                                        <li><a href="https://www.Corvel Solar.com/solar-energy-company-in-faridabad">Solar power in Faridabad</a></li>
+                                        <li><a href="https://www.Corvel Solar.com/solar-energy-company-in-noida">Solar power in Noida</a></li>
+                                        <li><a href="https://www.Corvel Solar.com/solar-energy-company-in-ghaziabad">Solar power in Ghaziabad</a></li>
+                                        <!--<li><a href="https://www.Corvel Solar.com/solar-energy-installation">Solar Energy Installation</a></li>-->
+                                        <li><a href="https://www.Corvel Solar.com/price-of-solar-panel">Price of solar panel</a></li>
 
                                     </ul>
 
@@ -2524,7 +2524,7 @@
 
         <div class="footer-copyright-text text-center">
 
-            <p>Copyright © 2021 <a href="https://www.corvelsolar.com/" aria-hidden="true">Corvelsolar Energy Pvt. Ltd.</a> All rights reserved</p>
+            <p>Copyright © 2021 <a href="https://www.Corvel Solar.com/" aria-hidden="true">Corvel Solar Energy Pvt. Ltd.</a> All rights reserved</p>
 
             <!-- <div class="copyright-menu">
 
