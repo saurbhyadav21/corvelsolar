@@ -2359,7 +2359,7 @@
 
                                 <p><i class="icon-call-in"></i> Any Questions?</p>
 
-                                <h3>+91 9650 728 179</h3>
+                                <h3>+91 8595 448 674</h3>
 
                             </div>
 
@@ -2371,7 +2371,7 @@
 
                                 <p><i class="icon-envelope-letter"></i> Send Email</p>
 
-                                <h3>hello@Corvel Solar.com</h3>
+                                <h3>Customersupport@corvelsolar.com</h3>
 
                             </div>
 
@@ -2403,11 +2403,12 @@
 
                                 <div class="footer-logo-widget">
 
-                                    <a class="footer-logo" href="#"><img src="img/logo/logo1.webp" alt="Corvel Solar Energy"></a>
+                                    <a class="footer-logo" href="#"><img src="img/logo-removebg-preview.png" alt="Corvel Solar Energy"></a>
 
-                                    <p>Corvel Solar is the first choice for solar having operations in multiple cities in northern India.</p>
+                                    <p>Corvel Solar is a preferred solar energy provider, operating across multiple cities in Northern India.</p>
 
-                                    <p>Corvel Solar solar rooftop systems come with a 30-year of customer support for all and have emerged among the top companies in the list of solar epc companies in Delhi NCR. We are your one-stop destination for solar system installation at home and offer the best industrial solar panel price</p>
+<p>Corvel Solar’s rooftop systems are backed by up to 30 years of customer support and have positioned the company among the leading solar EPC providers in Delhi NCR. We serve as a complete solution for residential solar installations and also offer competitive pricing for industrial solar panel projects.</p>
+
 
                                     <div class="footer-social">
                                         <a href="https://twitter.com/energyCorvel Solar"><i class="fab fa-twitter" aria-label="fa-twitter"></i></a>
@@ -2439,15 +2440,15 @@
 
                                     <div class="textwidget custom-html-widget">
                                         <ul>
-                                            <li><a href="https://www.Corvel Solar.com">Home</a></li>
-                                            <li><a href="https://www.Corvel Solar.com/blogs">Blogs</a></li>
-                                            <li><a href="https://www.Corvel Solar.com/all-about-solar">All about Solar</a></li>
-                                            <li><a href="https://www.Corvel Solar.com/refer-a-friend-and-earn">Refer a friend and earn</a></li>
-                                            <li><a href="https://www.Corvel Solar.com/savings-calculator">Savings Calculator </a></li>
-                                            <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Purchase your solar system </a></li>
-                                            <li><a href="https://www.Corvel Solar.com/knowledge-centre">Knowledge centre </a></li>
-                                            <li><a href="https://www.Corvel Solar.com/terms">Terms of Use</a></li>
-                                            <li><a href="https://www.Corvel Solar.com/privacy">Privacy Policy</a></li>
+                                            <li><a href="https://www.corvelsolar.com">Home</a></li>
+                                            <li><a href="https://www.corvelsolar.com/blogs">Blogs</a></li>
+                                            <li><a href="https://www.corvelsolar.com/all-about-solar">All about Solar</a></li>
+                                            <li><a href="https://www.corvelsolar.com/refer-a-friend-and-earn">Refer a friend and earn</a></li>
+                                            <li><a href="https://www.corvelsolar.com/savings-calculator">Savings Calculator </a></li>
+                                            <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">Purchase your solar system </a></li>
+                                            <li><a href="https://www.corvelsolar.com/knowledge-centre">Knowledge centre </a></li>
+                                            <li><a href="https://www.corvelsolar.com/terms">Terms of Use</a></li>
+                                            <li><a href="https://www.corvelsolar.com/privacy">Privacy Policy</a></li>
                                         </ul>
                                     </div>
 
@@ -2467,17 +2468,17 @@
 
                                     <ul>
 
-                                        <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Factory</a></li>
-                                        <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Industry</a></li>
-                                        <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Hospitals</a></li>
-                                        <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Hotels</a></li>
-                                        <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Schools</a></li>
-                                        <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Offices</a></li>
+                                        <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">Factory</a></li>
+                                        <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">Industry</a></li>
+                                        <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">Hospitals</a></li>
+                                        <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">Hotels</a></li>
+                                        <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">Schools</a></li>
+                                        <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">Offices</a></li>
 
 
-                                        <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Cold Storages</a></li>
-                                        <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">Apartments</a></li>
-                                        <li><a href="https://www.Corvel Solar.com/purchase-your-solar-system">All Roofs</a></li>
+                                        <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">Cold Storages</a></li>
+                                        <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">Apartments</a></li>
+                                        <li><a href="https://www.corvelsolar.com/purchase-your-solar-system">All Roofs</a></li>
                                     </ul>
 
                                 </div>
@@ -2495,16 +2496,16 @@
                                     <h3 class="el-widget-title">OUR PRESENCE</h3>
 
                                     <ul>
-                                        <li><a href="https://www.Corvel Solar.com/solar-companies-in-gurgaon">Solar power in Gurgaon</a></li>
-                                        <li><a href="https://www.Corvel Solar.com/solar-power-company-in-manesar">Solar power in Manesar</a></li>
-                                        <li><a href="https://www.Corvel Solar.com/solar-power-company-in-greater-noida">Solar power in Greater Noida</a></li>
-                                        <li><a href="https://www.Corvel Solar.com/solar-power-company-in-dwarka">Solar power in Dwarka</a></li>
-                                        <li><a href="https://www.Corvel Solar.com/solar-companies-in-delhi">Solar power in Delhi</a></li>
-                                        <li><a href="https://www.Corvel Solar.com/solar-energy-company-in-faridabad">Solar power in Faridabad</a></li>
-                                        <li><a href="https://www.Corvel Solar.com/solar-energy-company-in-noida">Solar power in Noida</a></li>
-                                        <li><a href="https://www.Corvel Solar.com/solar-energy-company-in-ghaziabad">Solar power in Ghaziabad</a></li>
-                                        <!--<li><a href="https://www.Corvel Solar.com/solar-energy-installation">Solar Energy Installation</a></li>-->
-                                        <li><a href="https://www.Corvel Solar.com/price-of-solar-panel">Price of solar panel</a></li>
+                                        <li><a href="https://www.corvelsolar.com/solar-companies-in-gurgaon">Solar power in Gurgaon</a></li>
+                                        <li><a href="https://www.corvelsolar.com/solar-power-company-in-manesar">Solar power in Manesar</a></li>
+                                        <li><a href="https://www.corvelsolar.com/solar-power-company-in-greater-noida">Solar power in Greater Noida</a></li>
+                                        <li><a href="https://www.corvelsolar.com/solar-power-company-in-dwarka">Solar power in Dwarka</a></li>
+                                        <li><a href="https://www.corvelsolar.com/solar-companies-in-delhi">Solar power in Delhi</a></li>
+                                        <li><a href="https://www.corvelsolar.com/solar-energy-company-in-faridabad">Solar power in Faridabad</a></li>
+                                        <li><a href="https://www.corvelsolar.com/solar-energy-company-in-noida">Solar power in Noida</a></li>
+                                        <li><a href="https://www.corvelsolar.com/solar-energy-company-in-ghaziabad">Solar power in Ghaziabad</a></li>
+                                        <!--<li><a href="https://www.corvelsolar.com/solar-energy-installation">Solar Energy Installation</a></li>-->
+                                        <li><a href="https://www.corvelsolar.com/price-of-solar-panel">Price of solar panel</a></li>
 
                                     </ul>
 
