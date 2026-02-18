@@ -132,7 +132,7 @@
 
                                     <p>Corvel Solar is a preferred solar energy provider, operating across multiple cities in Northern India.</p>
 
-<p>Corvel Solar’s rooftop systems are backed by up to 30 years of customer support and have positioned the company among the leading solar EPC providers in Delhi NCR. We serve as a complete solution for residential solar installations and also offer competitive pricing for industrial solar panel projects.</p>
+<p>Corvel Solar’s rooftop systems are backed by up to 10 years of customer support and have positioned the company among the leading solar EPC providers in Delhi NCR. We serve as a complete solution for residential solar installations and also offer competitive pricing for industrial solar panel projects.</p>
 
 
                                     <div class="footer-social">
