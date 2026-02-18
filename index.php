@@ -58,9 +58,9 @@
 <body>
     <div id="preloader"></div>
     <div id="overlay"></div>
-    <div class="up">
+    <!-- <div class="up">
         <a href="#" class="scrollup text-center  Corvel Solar-scroll"><i class="fas fa-chevron-up"></i></a>
-    </div>
+    </div> -->
     <!-- Start of header section
          ============================================= -->
     <header id="header_id" class="main_header header_style_one ">
@@ -2525,17 +2525,9 @@
 
         <div class="footer-copyright-text text-center">
 
-            <p>Copyright © 2021 <a href="https://www.Corvel Solar.com/" aria-hidden="true">Corvel Solar Energy Pvt. Ltd.</a> All rights reserved</p>
+            <p>Copyright © 2025 <a href="https://www.corvelsolar.com/" aria-hidden="true">Corvel Solar Energy Pvt. Ltd.</a> All rights reserved</p>
 
-            <!-- <div class="copyright-menu">
-
-				<a href="terms">Terms</a>
-
-				<a href="privacy"> Privacy Policy </a>
-
-				<a href="#">Sitemap</a>
-
-			</div> -->
+            
 
         </div>
 
@@ -2583,13 +2575,71 @@
 
     <script src="js/gmap3.min.js"></script>
 
-    <!--<script src="https://maps.google.com/maps/api/js?key=AIzaSyC61_QVqt9LAhwFdlQmsNwi5aUJy9B2SyA"></script>-->
-    <!--<script src="js/pop-up.js"></script>-->
+    <!-- WhatsApp Floating Button -->
+<div class="whatsapp-container">
+    <div class="whatsapp-message">Let's discuss</div>
+    <a href="https://wa.me/918595448674" class="whatsapp-circle" target="_blank" title="Chat on WhatsApp">
+        <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="WhatsApp">
+    </a>
+</div>
 
-    <!--<script id="BotPenguin-messenger-widget" src="https://cdn.botpenguin.com/botpenguin.js" defer>625814dccd95723b5541e704,625814735ef2383c6f7bc07f</script>-->
-    <script id="BotPenguin-messenger-widget" src="https://cdn.botpenguin.com/botpenguin.js" defer>
-        6412 c76ad6e8b2725206ea9a, 625814735 ef2383c6f7bc07f
-    </script>
+<style>
+    .whatsapp-container {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        z-index: 999;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .whatsapp-message {
+        background-color: #25D366;
+        color: white;
+        padding: 6px 12px;
+        border-radius: 20px;
+        font-size: 14px;
+        margin-bottom: 6px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        animation: fadeInUp 0.6s ease-in-out;
+    }
+
+    .whatsapp-circle {
+        width: 60px;
+        height: 60px;
+        background-color: #25D366;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+        transition: transform 0.2s ease-in-out;
+    }
+
+    .whatsapp-circle:hover {
+        transform: scale(1.1);
+    }
+
+    .whatsapp-circle img {
+        width: 30px;
+        height: 30px;
+    }
+
+    @keyframes fadeInUp {
+        from {
+            opacity: 0;
+            transform: translateY(10px);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+</style>
+
+
 </body>
 
 </html>
