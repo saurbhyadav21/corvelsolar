@@ -71,12 +71,12 @@
                         <div class="header_top_contact ul-li clearfix">
                             <ul>
                                 <li> <i class="icon-call-out"></i> + 91 8595 448 674</li>
-                                <li> <i class="icon-envelope-letter"></i> customersupport@Corvel Solar.com</li>
+                                <li> <i class="icon-envelope-letter"></i> customersupport@CorvelSolar.com</li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="header_top_info float-right" style="    float: right;">
+                        <div class="header_top_info float-right" style="float: right;">
                             <!-- <div class="top_info_item top_info_menu ul-li clearfix">
                            <ul>
                            
