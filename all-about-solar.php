@@ -14,7 +14,7 @@
             <div class="col-lg-6">
                 <div class="about-content">
     <div class="about-title">
-        <img src="https://www.evaskaenergy.com/website/assets/icon/icon-1.svg" alt="Rooftop solar energy">
+        <img src="https://www.corvelsolar.com/website/assets/icon/icon-1.svg" alt="Rooftop solar energy">
         <h1 class="about-short-title">Rooftop Solar Technology</h1>
     </div>
 
@@ -24,14 +24,14 @@
 
     <p>In areas where net metering approvals are delayed or unavailable, customers can opt for a Zero Export Device (Z.E.D) to start reducing high electricity bills from the very first day. Choose Evaska Energy’s reliable solar solutions for your home today.</p>
 
-    <p>For locations facing delays in <a style="color: #ff8a00;" href="https://www.evaskaenergy.com/blog/net-energy-metering-benefits-and-how-it-works">net metering</a> or lacking net metering facilities, installing a Zero Export Device (Z.E.D) ensures you can immediately begin saving on substantial electricity costs. Explore Evaska Energy’s <a href="https://www.evaskaenergy.com/blog/cost-of-power-solar-rooftop-panels-for-homes-in-gurgaon">solar panel system for home</a> and make the switch to clean energy today.</p>
+    <p>For locations facing delays in <a style="color: #ff8a00;" href="https://www.corvelsolar.com/blog/net-energy-metering-benefits-and-how-it-works">net metering</a> or lacking net metering facilities, installing a Zero Export Device (Z.E.D) ensures you can immediately begin saving on substantial electricity costs. Explore Evaska Energy’s <a href="https://www.corvelsolar.com/blog/cost-of-power-solar-rooftop-panels-for-homes-in-gurgaon">solar panel system for home</a> and make the switch to clean energy today.</p>
 
 </div>
 
             </div>
             <div class="col-lg-6">
                 <div class="about-image">
-                    <img src="https://www.evaskaenergy.com/website/assets/img/about/about-1.webp" alt="Rooftop solar energy" class="img-fluid">
+                    <img src="https://www.corvelsolar.com/website/assets/img/about/about-1.webp" alt="Rooftop solar energy" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -45,13 +45,13 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="process-image text-center">
-                    <img src="https://www.evaskaenergy.com/website/assets/img/about/about.webp" alt="Rooftop solar energy">
+                    <img src="https://www.corvelsolar.com/website/assets/img/about/about.webp" alt="Rooftop solar energy">
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="process-content">
                     <div class="d-flex align-items-center section-title">
-                        <img src="https://www.evaskaenergy.com/website/assets/img/about/icon-2.png" class="mr-2" alt="Rooftop solar energy">
+                        <img src="https://www.corvelsolar.com/website/assets/img/about/icon-2.png" class="mr-2" alt="Rooftop solar energy">
                         <h2 class="title">"How Solar Energy Works"?</h2>
                     </div>
                     <ul class="process-list">
@@ -97,7 +97,7 @@
 <section class="section solar-category-sec pt-0">
     <div class="container">
         <div class="section-title text-center">
-            <img src="https://www.evaskaenergy.com/website/assets/img/about/icon-2.png" class="mb-4" alt="Rooftop solar energy">
+            <img src="https://www.corvelsolar.com/website/assets/img/about/icon-2.png" class="mb-4" alt="Rooftop solar energy">
             <h2 class="title">Different types of Solar Plants:</h2>
         </div>
         <div class="row">
@@ -105,7 +105,7 @@
                 <div class="category-block">
                     <div class="category-block-inner">
                         <div class="category-thumb">
-                            <img src="https://www.evaskaenergy.com/website/assets/img/about/about-2.jpg" alt="Rooftop solar energy">
+                            <img src="https://www.corvelsolar.com/website/assets/img/about/about-2.jpg" alt="Rooftop solar energy">
                         </div>
                         <div class="category-content">
                             <h4>ON Grid Solar Plant</h4>
@@ -118,7 +118,7 @@
                 <div class="category-block">
                     <div class="category-block-inner">
                         <div class="category-thumb">
-                            <img src="https://www.evaskaenergy.com/website/assets/img/about/about-3.jpg" alt="Rooftop solar energy">
+                            <img src="https://www.corvelsolar.com/website/assets/img/about/about-3.jpg" alt="Rooftop solar energy">
                         </div>
                         <div class="category-content">
                             <h4>Hybrid Solar Plant</h4>
@@ -131,7 +131,7 @@
                 <div class="category-block">
                     <div class="category-block-inner">
                         <div class="category-thumb">
-                            <img src="https://www.evaskaenergy.com/website/assets/img/about/about-4.jpg" alt="Rooftop solar energy">
+                            <img src="https://www.corvelsolar.com/website/assets/img/about/about-4.jpg" alt="Rooftop solar energy">
                         </div>
                         <div class="category-content">
                             <h4>OFF Grid Solar Plant</h4>

@@ -229,7 +229,10 @@
                                         <li><a href="https://www.corvelsolar.com/solar-energy-company-in-faridabad">Solar power in Faridabad</a></li>
                                         <li><a href="https://www.corvelsolar.com/solar-energy-company-in-noida">Solar power in Noida</a></li>
                                         <li><a href="https://www.corvelsolar.com/solar-energy-company-in-ghaziabad">Solar power in Ghaziabad</a></li>
-                                        <!--<li><a href="https://www.corvelsolar.com/solar-energy-installation">Solar Energy Installation</a></li>-->
+                                        <li><a href="https://www.corvelsolar.com/solar-energy-company-in-ghaziabad">Solar power in Uttar Pradesh</a></li>
+                                        <li><a href="https://www.corvelsolar.com/solar-energy-company-in-ghaziabad">Solar power in Rajasthan</a></li>
+                                        <li><a href="https://www.corvelsolar.com/solar-energy-company-in-ghaziabad">Solar power in Haryana</a></li>
+                                      
                                         <li><a href="https://www.corvelsolar.com/price-of-solar-panel">Price of solar panel</a></li>
 
                                     </ul>
