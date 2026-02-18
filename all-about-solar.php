@@ -32,7 +32,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="about-image">
-                    <img src="img/about-1.PNG" alt="Rooftop solar energy" class="img-fluid">
+                    <img src="img/about-1.png" alt="Rooftop solar energy" class="img-fluid">
                 </div>
             </div>
         </div>
