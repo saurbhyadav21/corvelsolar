@@ -32,7 +32,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="about-image">
-                    <img src="img/about-1.png" alt="Rooftop solar energy" class="img-fluid">
+                    <img src="img/about.png" alt="Rooftop solar energy" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -46,13 +46,13 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="process-image text-center">
-                    <img src="https://www.corvelsolar.com/website/assets/img/about/about.webp" alt="Rooftop solar energy">
+                    <img src="img/about/about.png" alt="Rooftop solar energy">
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="process-content">
                     <div class="d-flex align-items-center section-title">
-                        <img src="https://www.corvelsolar.com/website/assets/img/about/icon-2.png" class="mr-2" alt="Rooftop solar energy">
+                        <img src="img/about/icon-2.png" class="mr-2" alt="Rooftop solar energy">
                         <h2 class="title">"How Solar Energy Works"?</h2>
                     </div>
                     <ul class="process-list">
