@@ -129,7 +129,7 @@
                         <li><a href="refer-a-friend-and-earn">Refer A Friend And Earn</a></li>
                          <li><a href="savings-calculator">Solar Energy Calculator</a></li>
                         <li><a href="purchase-your-solar-system">Purchase Your Solar System</a></li>
-                        <!--<li><a href="https://www.Corvelsolar.com/knowledge-centre">Knowledge Center</a></li> -->
+                        <li><a href="knowledge-centre">Knowledge Center</a></li>
                         <!-- <li class="dropdown">
                         <a href="service.html">Services</a>
                         
