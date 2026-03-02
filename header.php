@@ -125,7 +125,7 @@
                         </ul>
                         
                         </li> -->
-                        <li><a href="https://www.Corvelsolar.com/all-about-solar">All About Solar</a></li>
+                        <li><a href="all-about-solar">All About Solar</a></li>
                         <!-- <li><a href="https://www.Corvelsolar.com/refer-a-friend-and-earn">Refer A Friend And Earn</a></li>
                         <li><a href="https://www.Corvelsolar.com/savings-calculator">Solar Energy Calculator</a></li>
                         <li><a href="https://www.Corvelsolar.com/purchase-your-solar-system">Purchase Your Solar System</a></li>

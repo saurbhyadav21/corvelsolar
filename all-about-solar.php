@@ -32,7 +32,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="about-image">
-                    <img src="img/about.png" alt="Rooftop solar energy" class="img-fluid">
+                    <img src="img/about-1.png" alt="Rooftop solar energy" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -46,7 +46,7 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="process-image text-center">
-                    <img src="img/about/about.png" alt="Rooftop solar energy">
+                    <img src="img/about.png" alt="Rooftop solar energy">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -98,15 +98,15 @@
 <section class="section solar-category-sec pt-0">
     <div class="container">
         <div class="section-title text-center">
-            <img src="https://www.corvelsolar.com/website/assets/img/about/icon-2.png" class="mb-4" alt="Rooftop solar energy">
-            <h2 class="title">Different types of Solar Plants:</h2>
+            <!-- <img src="https://www.corvelsolar.com/website/assets/img/about/icon-2.png" class="mb-4" alt="Rooftop solar energy"> -->
+            <h2 class="title">Types of Solar Plants:</h2>
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-6">
                 <div class="category-block">
                     <div class="category-block-inner">
                         <div class="category-thumb">
-                            <img src="https://www.corvelsolar.com/website/assets/img/about/about-2.jpg" alt="Rooftop solar energy">
+                            <img src="img/1.png" alt="Rooftop solar energy" class="i">
                         </div>
                         <div class="category-content">
                             <h4>ON Grid Solar Plant</h4>
@@ -115,11 +115,15 @@
                     </div>
                 </div>
             </div>
+            <style>
+                .i{height: 280px;
+    width: 350px;}
+            </style>
             <div class="col-lg-4 col-md-6">
                 <div class="category-block">
                     <div class="category-block-inner">
                         <div class="category-thumb">
-                            <img src="https://www.corvelsolar.com/website/assets/img/about/about-3.jpg" alt="Rooftop solar energy">
+                            <img src="img/2.png" alt="Rooftop solar energy" class="i">
                         </div>
                         <div class="category-content">
                             <h4>Hybrid Solar Plant</h4>
@@ -132,7 +136,7 @@
                 <div class="category-block">
                     <div class="category-block-inner">
                         <div class="category-thumb">
-                            <img src="https://www.corvelsolar.com/website/assets/img/about/about-4.jpg" alt="Rooftop solar energy">
+                            <img src="img/3.png" alt="Rooftop solar energy" class="i">
                         </div>
                         <div class="category-content">
                             <h4>OFF Grid Solar Plant</h4>
