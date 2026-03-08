@@ -513,3 +513,44 @@ Save Trees</h5>
 	});//submit
 });
 </script>
+
+<script>
+    const slider = document.getElementById('solarSlider');
+    const sliderInput = document.getElementById('solarInput');
+    const sliderValueText = document.getElementById('sliderValue');
+
+    function updateSliderStyles() {
+        const value = slider.value;
+        const min = slider.min;
+        const max = slider.max;
+        const percentage = ((value - min) / (max - min)) * 100;
+        slider.style.background = `linear-gradient(to right, #ff8000 0%, #ff8000 ${percentage}%, #ddd ${percentage}%, #ddd 100%)`;
+    }
+
+    function updateValues(value) {
+        value = parseInt(value);
+
+        slider.value = value;
+        sliderInput.value = value;
+        sliderValueText.textContent = value.toLocaleString();
+        
+        document.getElementById('powerValue').textContent = `${value / 1000} kW`;
+        document.getElementById('areaValue').textContent = `${80 * value / 1000} sq.ft`;
+        document.getElementById('unitsGenerated').textContent = `${4 * value / 1000} units/day`;
+        document.getElementById('annualUnits').textContent = `${1500 * value / 1000} units/year`;
+        document.getElementById('unitRate').textContent = `8 Rs/unit`;
+        // document.getElementById('powerValue').textContent = `Rs. ${value / 1000}`;
+        document.getElementById('annualSavings').textContent = `Rs. ${12000 * value / 1000}`;
+
+        updateSliderStyles();
+    }
+
+    // Slider interaction
+    slider.addEventListener('input', (e) => updateValues(e.target.value));
+
+    // Input interaction
+    sliderInput.addEventListener('input', (e) => updateValues(e.target.value));
+
+    // Initialize
+    updateValues(slider.value);
+</script>
