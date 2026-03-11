@@ -1,50 +1,28 @@
 <?php
 
-// $name = $_POST['name'];
-// $phone = $_POST['phone'];
-// $pincode = $_POST['pincode'];
-// $bill = $_POST['bill'];
+if(isset($_POST['name'])){
 
-// $to = "customersupport@corvelsolar.com";
-// $subject = "New Solar Enquiry";
+$name = $_POST['name'];
+$phone = $_POST['phone'];
+$pincode = $_POST['pincode'];
+$bill = $_POST['bill'];
 
-// $message = "
-// Name: $name
-// Phone: $phone
-// Pincode: $pincode
-// Electricity Bill: $bill
-// ";
+$to = "customersupport@corvelsolar.com";
+$subject = "New Solar Enquiry";
 
-// $headers = "From: customersupport@corvelsolar.com";
+$message = "Name: $name \n";
+$message .= "Phone: $phone \n";
+$message .= "Pincode: $pincode \n";
+$message .= "Electricity Bill: $bill";
 
-// mail($to,$subject,$message,$headers);
+$headers = "From: customersupport@corvelsolar.com\r\n";
+$headers .= "Content-Type: text/plain; charset=UTF-8\r\n";
 
-// header("Location: thank-you.php");
-// exit();
+mail($to,$subject,$message,$headers);
 
+header("Location: thank-you.php");
+exit();
 
+}
 
-
-
-?>
-
-
-<?php
-
-// $to = "customersupport@corvelsolar.com";
-// $subject = "Mail Test";
-// $message = "Testing PHP mail function";
-// $headers = "From: customersupport@corvelsolar.com";
-
-// if(mail($to,$subject,$message,$headers)){
-//     echo "Mail Sent Successfully";
-// }else{
-//     echo "Mail Failed";
-// }
-
-?>
-
-
-<?php
-phpinfo();
 ?>
