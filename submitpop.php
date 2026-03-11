@@ -24,10 +24,6 @@ $result = mail($to,$subject,$message,$headers);
 if(!$result){
     print_r(error_get_last());
 }
-if(mail($to,$subject,$message,$headers)){
-    echo "Mail Sent";
-}else{
-    echo "Mail Failed";
-}
+
 
 }
