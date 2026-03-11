@@ -31,15 +31,20 @@
 
 <?php
 
-$to = "customersupport@corvelsolar.com";
-$subject = "Mail Test";
-$message = "Testing PHP mail function";
-$headers = "From: customersupport@corvelsolar.com";
+// $to = "customersupport@corvelsolar.com";
+// $subject = "Mail Test";
+// $message = "Testing PHP mail function";
+// $headers = "From: customersupport@corvelsolar.com";
 
-if(mail($to,$subject,$message,$headers)){
-    echo "Mail Sent Successfully";
-}else{
-    echo "Mail Failed";
-}
+// if(mail($to,$subject,$message,$headers)){
+//     echo "Mail Sent Successfully";
+// }else{
+//     echo "Mail Failed";
+// }
 
+?>
+
+
+<?php
+phpinfo();
 ?>
