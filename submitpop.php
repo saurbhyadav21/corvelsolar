@@ -24,6 +24,10 @@ $result = mail($to,$subject,$message,$headers);
 if(!$result){
     print_r(error_get_last());
 }
+else
+    {
+        echo 'xx';
+    }
 
 
 }
