@@ -1,40 +1,30 @@
 <?php
 
-// if(isset($_POST['name'])){
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
 
-// $name = $_POST['name'];
-// $phone = $_POST['phone'];
-// $pincode = $_POST['pincode'];
-// $bill = $_POST['bill'];
+if(isset($_POST['name'])){
 
-// $to = "customersupport@corvelsolar.com";
-// $subject = "New Solar Enquiry";
+$name = $_POST['name'];
+$phone = $_POST['phone'];
+$pincode = $_POST['pincode'];
+$bill = $_POST['bill'];
 
-// $message = "Name: $name \n";
-// $message .= "Phone: $phone \n";
-// $message .= "Pincode: $pincode \n";
-// $message .= "Electricity Bill: $bill";
+$to = "customersupport@corvelsolar.com";
+$subject = "New Solar Enquiry";
 
-// $headers = "From: customersupport@corvelsolar.com\r\n";
-// $headers .= "Content-Type: text/plain; charset=UTF-8\r\n";
+$message = "Name: $name \n";
+$message .= "Phone: $phone \n";
+$message .= "Pincode: $pincode \n";
+$message .= "Electricity Bill: $bill";
 
-// mail($to,$subject,$message,$headers);
+$headers = "From: customersupport@corvelsolar.com\r\n";
+$headers .= "Content-Type: text/plain; charset=UTF-8\r\n";
 
-// //header("Location: thank-you.php");
-// //exit();
+if(mail($to,$subject,$message,$headers)){
+    echo "Mail Sent";
+}else{
+    echo "Mail Failed";
+}
 
-// }
-
-?>
-
-
-<?php
-// the message
-$msg = "First line of text\nSecond line of text";
-
-// use wordwrap() if lines are longer than 70 characters
-$msg = wordwrap($msg,70);
-
-// send email
-mail("corvelindiasolar@gmail.com","My subject",$msg);
-?>
+}
