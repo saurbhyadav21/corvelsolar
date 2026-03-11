@@ -1,9 +1,7 @@
-
-
 <?php
 
 use PHPMailer\PHPMailer\PHPMailer;
-use PHPMailer\PHPMailer\Exception;
+    use PHPMailer\PHPMailer\Exception;
 
 require 'PHPMailer/Exception.php';
 require 'PHPMailer/PHPMailer.php';
@@ -46,6 +44,8 @@ echo "Mailer Error: " . $mail->ErrorInfo;
 
 }
 
+}else{
+    echo 'zzz';
 }
 
 ?>
