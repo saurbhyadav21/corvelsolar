@@ -1,4 +1,11 @@
 <?php
+
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
+
+
+
 $to = "customersupport@corvelsolar.com";
 $subject = "New Solar Enquiry";
 $message = "New Solar Lead\n\n";
@@ -14,6 +21,7 @@ if(mail($to,$subject,$message,$headers)){
 }
 else
     {
-         echo 'n';
+        echo "Mail Failed<br>";
+    var_dump(error_get_last());
     }
 ?>
