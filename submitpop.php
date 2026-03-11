@@ -36,5 +36,5 @@ $msg = "First line of text\nSecond line of text";
 $msg = wordwrap($msg,70);
 
 // send email
-mail("customersupport@corvelsolar.com","My subject",$msg);
+mail("corvelindiasolar@gmail.com","My subject",$msg);
 ?>
