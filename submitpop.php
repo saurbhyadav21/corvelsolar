@@ -1,7 +1,13 @@
+
+
 <?php
 
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
+require 'PHPMailer/Exception.php';
+require 'PHPMailer/PHPMailer.php';
+require 'PHPMailer/SMTP.php';
 
 if(isset($_POST['name'])){
 
@@ -10,24 +16,36 @@ $phone = $_POST['phone'];
 $pincode = $_POST['pincode'];
 $bill = $_POST['bill'];
 
-$to = "corvelindiasolar@gmail.com";
-$subject = "New Solar Enquiry";
+$mail = new PHPMailer(true);
+//Support!@#12
+try {
 
-$message = "Name: $name \n";
-$message .= "Phone: $phone \n";
-$message .= "Pincode: $pincode \n";
-$message .= "Electricity Bill: $bill";
+$mail->isSMTP();
+$mail->Host       = 'smtp.hostinger.com';
+$mail->SMTPAuth   = true;
+$mail->Username   = 'customersupport@corvelsolar.com';
+$mail->Password   = 'Support!@#12';
+$mail->SMTPSecure = 'tls';
+$mail->Port       = 587;
 
-$headers = "From: corvelindiasolar@gmail.com\r\n";
-$headers .= "Content-Type: text/plain; charset=UTF-8\r\n";
-$result = mail($to,$subject,$message,$headers);
-if(!$result){
-    print_r(error_get_last());
+$mail->setFrom('customersupport@corvelsolar.com', 'Corvel Solar');
+$mail->addAddress('customersupport@corvelsolar.com');
+
+$mail->Subject = 'New Solar Enquiry';
+
+$mail->Body = "xxx";
+
+$mail->send();
+
+header("Location: thank-you.php");
+exit();
+
+} catch (Exception $e) {
+
+echo "Mailer Error: " . $mail->ErrorInfo;
+
 }
-else
-    {
-        echo 'xx';
-    }
-
 
 }
+
+?>
