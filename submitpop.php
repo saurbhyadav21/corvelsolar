@@ -20,11 +20,14 @@ $message .= "Electricity Bill: $bill";
 
 $headers = "From: customersupport@corvelsolar.com\r\n";
 $headers .= "Content-Type: text/plain; charset=UTF-8\r\n";
+$result = mail($to,$subject,$message,$headers);
 
 if(mail($to,$subject,$message,$headers)){
     echo "Mail Sent";
 }else{
     echo "Mail Failed";
 }
-
+if(!$result){
+    print_r(error_get_last());
+}
 }
