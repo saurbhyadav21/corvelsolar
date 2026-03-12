@@ -10,6 +10,8 @@ $subject = "Hostinger Mail Test";
 $message = "Testing email from server";
 
 $headers = "From: customersupport@corvelsolar.com\r\n";
+$headers .= "Reply-To: customersupport@corvelsolar.com\r\n";
+$headers .= "Return-Path: customersupport@corvelsolar.com\r\n";
 
 $result = mail($to,$subject,$message,$headers);
 
