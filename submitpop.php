@@ -7,14 +7,7 @@ use PHPMailer\PHPMailer\Exception;
 //Load Composer's autoloader (created by composer, not included with PHPMailer)
 require 'vendor/autoload.php';
 
-// $name = $_POST['name'] ?? '';
-// $phone = $_POST['phone'] ?? '';
-// $pincode = $_POST['pincode'] ?? '';
-// $bill = $_POST['bill'] ?? '';
-// $source = $_POST['source_url'] ?? '';
-
-
-
+//Create an instance; passing `true` enables exceptions
 $mail = new PHPMailer(true);
 //Support!@#12
 try {
@@ -35,14 +28,12 @@ try {
 
     //Content
     $mail->isHTML(true);                                  //Set email format to HTML
-    $mail->Subject = "New Solar Lead";
-   $message = "xxxx";
+    $mail->Subject = 'Here is the subject';
+    $mail->Body    = 'This is the HTML message body <b>in bold!</b>';
+    $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
-        $mail->Body = $message;
-
-    // header("Location: thank-you.php");
-exit();
-
+    $mail->send();
+    echo 'Message has been sent';
 } catch (Exception $e) {
-    echo "Mailer Error: ".$mail->ErrorInfo;
+    echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
 }
