@@ -91,11 +91,11 @@
                            </div> -->
                             <div class="top_info_item top_info_social ul-li clearfix">
                                 <ul>
-                                    <li><a href="#"><i class="fab fa-twitter" aria-label="Twitter"></i></a></li>
+                                    <li><a href="https://x.com/CorvelIndi63974"><i class="fab fa-twitter" aria-label="Twitter"></i></a></li>
                                     <li><a href="https://www.instagram.com/corvelindiasolar/"><i class="fab fa-instagram" aria-label="Instagram"></i></a></li>
                                     <li><a href="https://www.facebook.com/people/Corvel-India-Solar-Energy-Enterprises/61579574150694/"><i class="fab fa-facebook-f" aria-label="Facebook"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-youtube" aria-label="Youtube"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-linkedin-in" aria-label="Linkedin"></i></a></li>
+                                    <li><a href="https://www.youtube.com/channel/UCX4WKJVENZKlhOy25z4jTmg"><i class="fab fa-youtube" aria-label="Youtube"></i></a></li>
+                                    <li><a href="www.linkedin.com/in/corvel-india-solar-160ab93b6"><i class="fab fa-linkedin-in" aria-label="Linkedin"></i></a></li>
                                 </ul>
                             </div>
                         </div>
