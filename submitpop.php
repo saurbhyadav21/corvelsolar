@@ -10,13 +10,18 @@ echo "SMTP PORT: ".ini_get("smtp_port")."<br>";
 echo "sendmail_path: ".ini_get("sendmail_path");
 
 
-$result = mail("customersupport@corvelsolar.com","Test","Mail Test");
+$to = "customersupport@corvelsolar.com";
+$subject = "Test Mail";
 
-if($result){
-    echo "Mail Sent";
+$message = "Testing mail from website";
+
+$headers  = "From: Corvel Solar <customersupport@corvelsolar.com>\r\n";
+$headers .= "Reply-To: customersupport@corvelsolar.com\r\n";
+
+if(mail($to,$subject,$message,$headers)){
+    echo "Mail sent";
 }else{
-    echo "Mail Failed<br>";
-    var_dump(error_get_last());
+    echo "Mail failed";
 }
 
 ?>
