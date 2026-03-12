@@ -47,7 +47,7 @@ try {
 
         $mail->Body = $message;
 
-    header("Location: thank-you.php");
+    // header("Location: thank-you.php");
 exit();
 
 } catch (Exception $e) {
