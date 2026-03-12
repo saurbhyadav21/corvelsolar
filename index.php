@@ -139,7 +139,7 @@
 <!-- Start of Slider section
 
 	============================================= -->
-<a class="buttonLink" href="#" data-toggle="modal" data-target="#myModal"><button type="button" class="btn btn-large verticalButton">Get A Quote</button></a>
+<!-- <a class="buttonLink" href="#" data-toggle="modal" data-target="#myModal"><button type="button" class="btn btn-large verticalButton">Get A Quote</button></a> -->
 <section id="slider-eltron" class="slider-section slider-style-one">
 
     <div class="main-banner eva-home-banner">
