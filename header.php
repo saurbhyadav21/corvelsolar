@@ -93,7 +93,7 @@
                                 <ul>
                                     <li><a href="#"><i class="fab fa-twitter" aria-label="Twitter"></i></a></li>
                                     <li><a href="#"><i class="fab fa-instagram" aria-label="Instagram"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-facebook-f" aria-label="Facebook"></i></a></li>
+                                    <li><a href="https://www.facebook.com/people/Corvel-India-Solar-Energy-Enterprises/61579574150694/"><i class="fab fa-facebook-f" aria-label="Facebook"></i></a></li>
                                     <li><a href="#"><i class="fab fa-youtube" aria-label="Youtube"></i></a></li>
                                     <li><a href="#"><i class="fab fa-linkedin-in" aria-label="Linkedin"></i></a></li>
                                 </ul>
