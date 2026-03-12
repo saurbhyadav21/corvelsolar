@@ -1,0 +1,62 @@
+<?php
+
+$name = $_POST['name'] ?? '';
+$phone = $_POST['phone'] ?? '';
+$pincode = $_POST['pincode'] ?? '';
+$bill = $_POST['bill'] ?? '';
+$source = $_POST['source_url'] ?? '';
+
+$name = $_POST['name'] ?? '';
+$phone = $_POST['phone'] ?? '';
+$location = $_POST['location'] ?? '';
+$building = $_POST['bilding'] ?? '';
+
+
+
+
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
+
+//Load Composer's autoloader (created by composer, not included with PHPMailer)
+require 'vendor/autoload.php';
+
+//Create an instance; passing `true` enables exceptions
+$mail = new PHPMailer(true);
+//Support!@#12
+try {
+    //Server settings
+    $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
+    $mail->isSMTP();                                            //Send using SMTP
+    $mail->Host       = 'smtp.hostinger.com';                     //Set the SMTP server to send through
+    $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
+    $mail->Username   = 'customersupport@corvelsolar.com';                     //SMTP username
+    $mail->Password   = 'Support!@#12';                               //SMTP password
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
+    $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+
+    //Recipients
+    $mail->setFrom('customersupport@corvelsolar.com', 'Mailer');
+    $mail->addAddress('customersupport@corvelsolar.com', 'Joe User');     //Add a recipient
+   
+
+    //Content
+    $mail->isHTML(true);                                  //Set email format to HTML
+    $mail->Subject = 'New Purchase Enquiry ';
+    $message = "New Solar Purchase Enquiry\n\n";
+$message .= "Name: $name\n";
+$message .= "Phone: $phone\n";
+$message .= "Location: $location\n";
+$message .= "Building Type: $building\n\n";
+$message .= "IP Address: ".$_SERVER['REMOTE_ADDR']."\n";
+$message .= "Date: ".date("Y-m-d H:i:s")."\n";
+
+    $mail->Body    = $message;
+    $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
+
+    $mail->send();
+    header("Location: thank-you.php");
+exit();
+} catch (Exception $e) {
+    echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+}

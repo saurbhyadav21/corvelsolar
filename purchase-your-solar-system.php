@@ -11,64 +11,9 @@
 
             <div class="form-wrapper">
                 <h5>Please Tell Us Where Would You Like To Install Solar</h5>
-                <!--<form method="post">
-                    <div class="col-12">
-                        <div class="form-group">
-                            <input type="text" class="custom-input" placeholder="Enter Your Name" name="name">
-                        </div>
-                        
-                    </div>
-                    <div class="col-12">
-                       <div class="form-group">
-                            <input type="text" class="custom-input" placeholder="Enter Your Mobile Number" name="number">
-                        </div>
-                        
-                    </div>
-                    <div class="col-12">
-                       <div class="form-group">
-                            <input type="text" class="custom-input" placeholder="Enter Your Location" name="number">
-                        </div>
-                        
-                    </div>
+              
+                <form method="post" action="purchase">
                     
-                    <div class="col-12 para-form">
-                       <p>Select The Building Type :</p>
-                        
-                    </div>
-                    <div class="d-sm-flex" id="check-box-div">
-                       <div class="form-check form-check-inline ">
-                          <input class="form-check-input" type="checkbox" id="residenCheckbox" value="option1">
-                          <label class="form-check-label" for="residenCheckbox"> Residential</label>
-                        </div>
-                        
-                        <div class="form-check form-check-inline ">
-                      <input class="form-check-input" type="checkbox" id="commerCheckbox" value="option2">
-                      <label class="form-check-label" for="commerCheckbox">Commercial</label>
-                    </div>
-                        
-                    </div>
-                    
-                    <div class="d-sm-flex last-check" id="check-box-div">
-                       <div class="form-check form-check-inline ">
-                          <input class="form-check-input" type="checkbox" id="indusCheckbox" value="option3">
-                          <label class="form-check-label" for="indusCheckbox"> Industrial</label>
-                        </div>
-                        
-                        <div class="form-check form-check-inline ">
-                      <input class="form-check-input" type="checkbox" id="InstiCheckbox" value="option4">
-                      <label class="form-check-label" for="InstiCheckbox"> Institutional
-
-</label>
-                    </div>
-                        
-                    </div>
-                    <div class="col-12 text-center">
-                        <button class="gosolr"> Go Solar</button>
-                    </div>
-                </form>-->
-                <form method="post" action="purchase-solar">
-                    <input type="hidden" name="_token" value="RRxGSm5fr9cRAMGXNN9KfPD6zmAGxQk6pjsizY9Q">
-                     <input type="hidden" name="source_url" class="source_url">
                     <div class="col-12">
                         <div class="form-group">
                             <input type="text" class="custom-input" placeholder="Enter Your Name" name="name" required>
