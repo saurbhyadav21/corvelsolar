@@ -6,12 +6,15 @@ use PHPMailer\PHPMailer\Exception;
 
 //Load Composer's autoloader (created by composer, not included with PHPMailer)
 require 'vendor/autoload.php';
-$name = $_POST['name'] ?? '';
-$phone = $_POST['phone'] ?? '';
-$pincode = $_POST['pincode'] ?? '';
-$bill = $_POST['bill'] ?? '';
-$source = $_POST['source_url'] ?? '';
-//Create an instance; passing `true` enables exceptions
+
+// $name = $_POST['name'] ?? '';
+// $phone = $_POST['phone'] ?? '';
+// $pincode = $_POST['pincode'] ?? '';
+// $bill = $_POST['bill'] ?? '';
+// $source = $_POST['source_url'] ?? '';
+
+
+
 $mail = new PHPMailer(true);
 //Support!@#12
 try {
@@ -33,17 +36,7 @@ try {
     //Content
     $mail->isHTML(true);                                  //Set email format to HTML
     $mail->Subject = "New Solar Lead";
-   $message = "
-        New Solar Enquiry
-
-        Name: $name
-        Phone: $phone
-        Pincode: $pincode
-        Electricity Bill: $bill
-        Source URL: $source
-        IP Address: ".$_SERVER['REMOTE_ADDR']."
-        Date: ".date("Y-m-d H:i:s")."
-        ";
+   $message = "xxxx";
 
         $mail->Body = $message;
 
