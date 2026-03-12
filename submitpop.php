@@ -6,18 +6,14 @@ $pincode = $_POST['pincode'] ?? '';
 $bill = $_POST['bill'] ?? '';
 $source = $_POST['source_url'] ?? '';
 
-$message = "
-New Solar Enquiry
-
-Name: $name
-Phone: $phone
-Pincode: $pincode
-Electricity Bill: $bill
-Source URL: $source
-IP Address: ".$_SERVER['REMOTE_ADDR']."
-Date: ".date("Y-m-d H:i:s")."
-";
-
+$message = "New Solar Enquiry\n\n";
+$message .= "Name: $name\n";
+$message .= "Phone: $phone\n";
+$message .= "Pincode: $pincode\n";
+$message .= "Electricity Bill: $bill\n";
+$message .= "Source URL: $source\n";
+$message .= "IP Address: ".$_SERVER['REMOTE_ADDR']."\n";
+$message .= "Date: ".date("Y-m-d H:i:s")."\n";
 
 
 
