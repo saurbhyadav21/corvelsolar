@@ -4,9 +4,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
-require 'PHPMailer/PHPMailer.php';
-require 'PHPMailer/SMTP.php';
-require 'PHPMailer/Exception.php';
+require 'vendor/autoload.php';
 
 if($_SERVER["REQUEST_METHOD"]=="POST"){
 
@@ -56,5 +54,6 @@ echo "Mailer Error: ".$mail->ErrorInfo;
 }
 
 }
+
 
 ?>
