@@ -1,5 +1,27 @@
 <?php
 
+$name = $_POST['name'] ?? '';
+$phone = $_POST['phone'] ?? '';
+$pincode = $_POST['pincode'] ?? '';
+$bill = $_POST['bill'] ?? '';
+$source = $_POST['source_url'] ?? '';
+
+$message = "
+New Solar Enquiry
+
+Name: $name
+Phone: $phone
+Pincode: $pincode
+Electricity Bill: $bill
+Source URL: $source
+IP Address: ".$_SERVER['REMOTE_ADDR']."
+Date: ".date("Y-m-d H:i:s")."
+";
+
+
+
+
+
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
@@ -28,12 +50,13 @@ try {
 
     //Content
     $mail->isHTML(true);                                  //Set email format to HTML
-    $mail->Subject = 'Here is the subject';
-    $mail->Body    = 'This is the HTML message body <b>in bold!</b>';
+    $mail->Subject = 'New Solar Enquiry ';
+    $mail->Body    = $message;
     $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
     $mail->send();
-    echo 'Message has been sent';
+    header("Location: thank-you.php");
+exit();
 } catch (Exception $e) {
     echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
 }
