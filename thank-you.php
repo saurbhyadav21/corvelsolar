@@ -39,7 +39,7 @@
          <h2>Thank You For Contacting</h2>
          
          <div class="thanku_btn_wrap">
-                    <a href="https://www.evaskaenergy.com" class="button">Go to Homepage <span class="arrow">⟶</span></a>
+                    <a href="/" class="button">Go to Homepage <span class="arrow">⟶</span></a>
                     
                 </div>
        </div>
